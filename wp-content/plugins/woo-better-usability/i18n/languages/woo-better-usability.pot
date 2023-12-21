@@ -1,0 +1,271 @@
+# Copyright (C) 2021 Moises Heberle
+# This file is distributed under the same license as the WooCommerce Better Usability plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Better Usability 1.0.48\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-better-usability\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-14T21:32:11-03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: woo-better-usability\n"
+
+#. Plugin Name of the plugin
+#: includes/class-wbu.php:347
+msgid "WooCommerce Better Usability"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woo-better-usability"
+msgstr ""
+
+#. Description of the plugin
+msgid "Improves overall WooCommerce buyer experience"
+msgstr ""
+
+#. Author of the plugin
+msgid "Moises Heberle"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://pluggablesoft.com/contact"
+msgstr ""
+
+#: includes/class-wbu-cart.php:84
+msgid "The maximum quantity that can be added for this product is:"
+msgstr ""
+
+#: includes/class-wbu.php:67
+msgid "Display quantity buttons everywhere (except minicart)"
+msgstr ""
+
+#: includes/class-wbu.php:68
+#: includes/class-wbu.php:74
+#: includes/class-wbu.php:80
+#: includes/class-wbu.php:86
+#: includes/class-wbu.php:92
+#: includes/class-wbu.php:100
+#: includes/class-wbu.php:108
+#: includes/class-wbu.php:114
+#: includes/class-wbu.php:120
+#: includes/class-wbu.php:127
+msgid "General"
+msgstr ""
+
+#: includes/class-wbu.php:73
+msgid "Convert simple products `Add to Cart` buttons into AJAX"
+msgstr ""
+
+#: includes/class-wbu.php:79
+msgid "Hide `Added to cart` message after add product"
+msgstr ""
+
+#: includes/class-wbu.php:85
+msgid "Hide `View cart` link after add product"
+msgstr ""
+
+#: includes/class-wbu.php:91
+msgid "Max product quantity allowed (blank = disabled)"
+msgstr ""
+
+#: includes/class-wbu.php:99
+msgid "AJAX timeout in milliseconds for the quantity change refresh"
+msgstr ""
+
+#: includes/class-wbu.php:107
+msgid "Allow to delete products on checkout page"
+msgstr ""
+
+#: includes/class-wbu.php:113
+msgid "Allow to change quantity on checkout page"
+msgstr ""
+
+#: includes/class-wbu.php:119
+#: includes/class-wbu.php:148
+#: includes/class-wbu.php:234
+#: includes/class-wbu.php:283
+msgid "Show -/+ buttons around item quantity"
+msgstr ""
+
+#: includes/class-wbu.php:126
+msgid "Display unit price on product name"
+msgstr ""
+
+#: includes/class-wbu.php:135
+msgid "Allow to change product quantity on shop page"
+msgstr ""
+
+#: includes/class-wbu.php:136
+#: includes/class-wbu.php:142
+#: includes/class-wbu.php:149
+#: includes/class-wbu.php:156
+#: includes/class-wbu.php:162
+#: includes/class-wbu.php:169
+#: includes/class-wbu.php:176
+#: includes/class-wbu.php:182
+#: includes/class-wbu.php:191
+#: includes/class-wbu.php:197
+#: includes/class-wbu.php:203
+msgid "Shop"
+msgstr ""
+
+#: includes/class-wbu.php:141
+msgid "Show quantity as select instead of numeric field"
+msgstr ""
+
+#: includes/class-wbu.php:155
+msgid "Go to checkout directly instead of cart"
+msgstr ""
+
+#: includes/class-wbu.php:161
+msgid "Text to replace the `Add to cart` button"
+msgstr ""
+
+#: includes/class-wbu.php:164
+msgid "Buy now"
+msgstr ""
+
+#: includes/class-wbu.php:168
+msgid "Text to replace the `View cart` link"
+msgstr ""
+
+#: includes/class-wbu.php:171
+msgid "View checkout"
+msgstr ""
+
+#: includes/class-wbu.php:175
+msgid "Override the default number of products per row"
+msgstr ""
+
+#: includes/class-wbu.php:181
+msgid "Number of products to display per row"
+msgstr ""
+
+#: includes/class-wbu.php:190
+msgid "Hide product pagination"
+msgstr ""
+
+#: includes/class-wbu.php:196
+msgid "Hide `Default sorting` select box"
+msgstr ""
+
+#: includes/class-wbu.php:202
+msgid "Hide `Add to cart` button"
+msgstr ""
+
+#: includes/class-wbu.php:210
+#: includes/class-wbu.php:296
+msgid "Show item quantity as select instead of numeric field"
+msgstr ""
+
+#: includes/class-wbu.php:211
+#: includes/class-wbu.php:217
+#: includes/class-wbu.php:223
+#: includes/class-wbu.php:229
+#: includes/class-wbu.php:235
+msgid "Product"
+msgstr ""
+
+#: includes/class-wbu.php:216
+msgid "Hide price range for variable products"
+msgstr ""
+
+#: includes/class-wbu.php:222
+msgid "Hide price range for grouped products"
+msgstr ""
+
+#: includes/class-wbu.php:228
+msgid "Hide quantity input on product page"
+msgstr ""
+
+#: includes/class-wbu.php:242
+msgid "Update cart/prices automatically when change quantity"
+msgstr ""
+
+#: includes/class-wbu.php:243
+#: includes/class-wbu.php:249
+#: includes/class-wbu.php:260
+#: includes/class-wbu.php:266
+#: includes/class-wbu.php:277
+#: includes/class-wbu.php:284
+#: includes/class-wbu.php:290
+#: includes/class-wbu.php:297
+#: includes/class-wbu.php:303
+#: includes/class-wbu.php:312
+#: includes/class-wbu.php:318
+#: includes/class-wbu.php:326
+#: includes/class-wbu.php:332
+msgid "Cart"
+msgstr ""
+
+#: includes/class-wbu.php:248
+msgid "Technical method to update cart prices"
+msgstr ""
+
+#: includes/class-wbu.php:252
+msgid "Simulate click on \"Update cart\" button"
+msgstr ""
+
+#: includes/class-wbu.php:253
+msgid "Run custom AJAX"
+msgstr ""
+
+#: includes/class-wbu.php:259
+msgid "Display text while updating cart automatically"
+msgstr ""
+
+#: includes/class-wbu.php:265
+msgid "Where to display the `Updating` text"
+msgstr ""
+
+#: includes/class-wbu.php:269
+msgid "Proceed to checkout button"
+msgstr ""
+
+#: includes/class-wbu.php:270
+msgid "Update cart button"
+msgstr ""
+
+#: includes/class-wbu.php:276
+msgid "Text to display in Update cart button while loading"
+msgstr ""
+
+#: includes/class-wbu.php:279
+msgid "Updating..."
+msgstr ""
+
+#: includes/class-wbu.php:289
+msgid "Lock number input forcing the use of +/- buttons"
+msgstr ""
+
+#: includes/class-wbu.php:302
+msgid "Items to show on select"
+msgstr ""
+
+#: includes/class-wbu.php:311
+msgid "Show user confirmation when change item quantity to zero"
+msgstr ""
+
+#: includes/class-wbu.php:317
+msgid "Confirmation text"
+msgstr ""
+
+#: includes/class-wbu.php:320
+msgid "Are you sure you want to remove this item from cart?"
+msgstr ""
+
+#: includes/class-wbu.php:325
+msgid "Hide quantity input on cart page"
+msgstr ""
+
+#: includes/class-wbu.php:331
+msgid "Hide the `Update cart` button"
+msgstr ""
+
+#: includes/class-wbu.php:392
+msgid "Quantity"
+msgstr ""

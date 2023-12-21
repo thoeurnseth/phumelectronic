@@ -1,0 +1,4 @@
+wp-content/uploads/*
+wp-content/debug.log
+.idea
+wp-content/plugins/really-simple-ssl

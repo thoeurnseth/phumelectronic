@@ -1,0 +1,13 @@
+/* @field custom  */
+.panel.woocommerce_options_panel .form-field.limit_usage_to_x_items_field{
+    display: none !important;
+} 
+.panel.woocommerce_options_panel .form-field.usage_limit_field #usage_limit::placeholder{
+    color: white !important;
+    opacity: 1;
+} 
+
+.panel.woocommerce_options_panel .form-field.usage_limit_per_user_field  #usage_limit_per_user::placeholder{
+    color: white !important;
+    opacity: 1;
+} 

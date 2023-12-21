@@ -1,0 +1,250 @@
+# Translation of Plugins - Maintenance - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Maintenance - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-23 08:51:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Maintenance - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://fruitfulcode.com"
+msgstr "http://fruitfulcode.com"
+
+#. Author of the plugin/theme
+msgid "fruitfulcode"
+msgstr "fruitfulcode"
+
+#. Description of the plugin/theme
+msgid "Take your website for maintenance away from public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible by login and password. Plugin has a options to add a logo, background, headline, message, colors, login, etc. Extended PRO with more features version is available for purchase."
+msgstr "如果您的网站正在开发中，或者您需修改网站、升级网站，请使用maintenance插件将您的网站进入维护模式，启用插件后，只有通过用户名密码登录网站后才能查看。 插件具有添加徽标，背景，标题，消息，颜色，登录等选项。同时也可以购买更多功能的Pro版本。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/maintenance/"
+msgstr "http://wordpress.org/plugins/maintenance/"
+
+#: load/functions.php:261
+msgid "Login"
+msgstr "登录"
+
+#: load/functions.php:260
+msgid "Lost Password"
+msgstr "忘记密码"
+
+#: load/functions.php:259
+msgid "Password"
+msgstr "密码"
+
+#: load/functions.php:258
+msgid "Username"
+msgstr "用户名"
+
+#: load/functions.php:257
+msgid "User Login"
+msgstr "用户登录"
+
+#: load/functions.php:52
+msgid "You entered your login and password are incorrect!"
+msgstr "您输入的用户名和密码不正确！"
+
+#: load/functions.php:49
+msgid "You entered your password are incorrect!"
+msgstr "您输入的密码不正确！"
+
+#: load/functions.php:45
+msgid "You entered your login are incorrect!"
+msgstr "您输入的用户名不正确！"
+
+#: load/functions.php:37
+msgid "Permission access denied!"
+msgstr "拒绝访问权限！"
+
+#: includes/functions.php:606
+msgid "Website will be available soon"
+msgstr "网站将尽快上线"
+
+#: includes/functions.php:605
+msgid "Maintenance mode is on"
+msgstr "维护模式已开启"
+
+#: includes/functions.php:604
+msgid "Website is under construction"
+msgstr "网站正在建设中"
+
+#: includes/functions.php:409
+msgid "Demo website"
+msgstr "演示网站"
+
+#: includes/functions.php:405
+msgid "Purchase <a href=\"http://codecanyon.net/item/maintenance-wordpress-plugin/2781350?ref=fruitfulcode\" target=\"_blank\">PRO</a> version  with extended functionality. %1$s If you like our plugin please <a target=\"_blank\" href=\"http://wordpress.org/support/view/plugin-reviews/maintenance?filter=5\">rate it</a>, <a title=\"leave feedbacks\" href=\"%2$s\" target=\"_blank\">leave feedbacks</a>."
+msgstr "购买具有扩展功能的 <a href=\"http://codecanyon.net/item/maintenance-wordpress-plugin/2781350?ref=fruitfulcode\" target=\"_blank\">PRO </a>版本。 %1$s 如果您喜欢我们的插件，请 <a target=\"_blank\" href=\"http://wordpress.org/support/view/plugin-reviews/maintenance?filter=5\">对其进行评级</a>， <a title=\"leave feedbacks\" href=\"%2$s\" target=\"_blank\">留下反馈</a>。"
+
+#: includes/functions.php:404
+msgid "Extended functionality"
+msgstr "扩展功能"
+
+#: includes/functions.php:391
+msgid "Zoner - Real Estate WordPress theme"
+msgstr "Zoner-专为房地产行业设计的WordPress主题"
+
+#: includes/functions.php:385
+msgid "Love.ly - Simple & Elegant WordPress theme"
+msgstr "Love.ly-简单优雅的WordPress 主题"
+
+#: includes/functions.php:380
+msgid "ANAGLYPH - One page / Multi Page WordPress Theme"
+msgstr "ANAGLYPH- 一页 /多页 WordPress 主题"
+
+#: includes/functions.php:374
+msgid "Premium WordPress themes"
+msgstr "付费版WordPress主题"
+
+#: includes/functions.php:363
+msgid "You may find answers to your questions at <a target=\"_blank\" href=\"http://wordpress.org/support/plugin/maintenance\">support forum</a><br>You may  <a target=\"_blank\" href=\"mailto:mail@fruitfulcode.com?subject=Maintenance plugin\">contact us</a> with customization requests and suggestions.<br> Please visit our website to learn about us and our services <a href=\"%1$s\" title=\"%2$s\">%2$s</a>"
+msgstr "插件问题请先在 <a target=\"_blank\" href=\"http://wordpress.org/support/plugin/maintenance\">技术论坛</a><br>查找相关答案。如果有定制需求和建议，可以通过电子邮件<a target=\"_blank\" href=\"mailto:mail@fruitfulcode.com?subject=Maintenance plugin\">联系我们</a>。<br> 请访问我们的<a href=\"%1$s\" title=\"%2$s\">%2$s</a>网站，以进一步了解我们提供的服务。"
+
+#: includes/functions.php:362
+msgid "Have any questions?"
+msgstr "有什么问题吗？"
+
+#: includes/functions.php:354
+msgid "Font family"
+msgstr "字体"
+
+#: includes/functions.php:347
+msgid "Font color"
+msgstr "字体颜色"
+
+#: includes/functions.php:346
+msgid "Background color"
+msgstr "背景颜色"
+
+#: includes/functions.php:340
+msgid "Upload Background"
+msgstr "上传背景"
+
+#: includes/functions.php:340
+msgid "Background image"
+msgstr "背景图片"
+
+#: includes/functions.php:325
+msgid "Not available object."
+msgstr "没有可用对象。"
+
+#: includes/functions.php:279
+msgid "Select the page to be displayed:"
+msgstr "选择要显示的页面："
+
+#: includes/functions.php:265
+msgid "CSS Code"
+msgstr "CSS 代码"
+
+#: includes/functions.php:253
+msgid "Login On / Off"
+msgstr "登录功能 开启/关闭"
+
+#: includes/functions.php:252
+msgid "Apply a blur"
+msgstr "模糊应用"
+
+#: includes/functions.php:252
+msgid "Background blur"
+msgstr "背景模糊"
+
+#: includes/functions.php:246
+msgid "Blur intensity"
+msgstr "模糊强度"
+
+#: includes/functions.php:245
+msgid "UA-XXXXX-X"
+msgstr "UA-XXXXX-X"
+
+#: includes/functions.php:245
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+#: includes/functions.php:238
+msgid "Service temporarily unavailable"
+msgstr "服务暂时不可用"
+
+#: includes/functions.php:238
+msgid "503"
+msgstr "503"
+
+#: includes/functions.php:237
+msgid "Show admin bar"
+msgstr "显示管理栏"
+
+#: includes/functions.php:237
+msgid "Admin bar"
+msgstr "管理菜单"
+
+#: includes/functions.php:233
+msgid "Upload Logo"
+msgstr "上传 Logo"
+
+#: includes/functions.php:233
+msgid "Logo"
+msgstr "标识"
+
+#: includes/functions.php:232
+msgid "Footer Text"
+msgstr "页脚内容"
+
+#: includes/functions.php:231
+msgid "Description"
+msgstr "描述"
+
+#: includes/functions.php:230
+msgid "Headline"
+msgstr "标题"
+
+#: includes/functions.php:229
+msgid "Page title"
+msgstr "页面标题"
+
+#: includes/functions.php:208
+msgid "Support"
+msgstr "技术支持"
+
+#: includes/functions.php:202
+msgid "Fruitful Code projects"
+msgstr "Fruitful Code projects"
+
+#: includes/functions.php:195
+msgid "Pro version"
+msgstr "专业版"
+
+#: includes/functions.php:189
+msgid "Exclude pages"
+msgstr "排除页面"
+
+#: includes/functions.php:188
+msgid "Custom CSS"
+msgstr "自定义 CSS"
+
+#: includes/functions.php:187
+msgid "General Settings"
+msgstr "常规设置"
+
+#: includes/functions.php:168
+msgid "Google Web Fonts"
+msgstr "Google Web 字体"
+
+#: includes/functions.php:161
+msgid "Standard Fonts"
+msgstr "标准字体"
+
+#: includes/admin.php:88
+msgid "Save changes"
+msgstr "保存更改"
+
+#. #-#-#-#-#  tmp-maintenance.pot (Maintenance 2.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin.php:73 includes/functions.php:539
+msgid "Maintenance"
+msgstr "Maintenance"

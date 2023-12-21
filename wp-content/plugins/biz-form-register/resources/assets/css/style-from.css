@@ -1,0 +1,121 @@
+.form_register_ .woocommerce-form.woocommerce-form-register.register{
+    width: 50%;
+    background-color: #FFFFFF;
+    padding: 36px 36px;
+}
+.form_register_ .woocommerce-form-Register-Input{
+    width: 100%;
+}
+.form_register_ .form-Register-Input-text input[type=text]{
+    background-color: #f2f2f2;
+    border-radius: 4px;
+}
+
+.form_register_ .form-Register-Input-text input[type=password]{
+    background-color: #f2f2f2;
+    border-radius: 4px;
+}
+
+.form_register_ .form-Register-Input-text input:focus-visible {
+    outline:none;
+}
+
+.woocommerce-error-form-validate .woocommerce-error{
+    /* max-width: 31%;
+    margin-left: 34.5%; */
+}
+.woocommerce-error-form-validate-otp .otp-submit{
+    height: 54px;
+}
+.woo-otp .otp-container .otp-number-input {
+    width: 55px;
+    height: 45px;
+    margin: 0 5px;
+    border: none;
+    border-bottom: 2px solid rgba(0, 0, 0, .2);
+    padding: 20px;
+    color: rgba(0, 0, 0, .7);
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    font-size: 20px;
+    box-shadow: none;
+    text-align: center;
+    background-color: none;
+    font-weight: 600;
+    border-radius: 5px;
+    outline: 0;
+    transition: border 0.3s ease;
+    background-color: #f3f1f2;
+}
+
+.woo-otp .otp-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.woo-otp .otp-card .otp-title h2{
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: 600;
+    font-style: normal;
+} 
+
+.woo-otp .otp-wrapper .otp-resend{
+    font-size: 15px;
+    margin-top: 20px;
+    color: #c2c2c2;
+    display: flex;
+    justify-content: center;
+}
+
+.woo-otp .otp-sumrize label {
+    color: #e60e2f;
+    font-weight: bold;
+}
+
+
+
+
+
+.wp-sign-in{
+    margin-left: 25.1%;
+}
+
+.woo.woocommerce-error-form-validate{
+    display: flex;
+    justify-content: center;
+}
+.woo.woocommerce-error{
+    width: 50%;
+}
+
+.woocommerce-form .form-Register-Input-text .require-star{
+    color: #e60e2f;
+}
+
+ 
+
+/* Desktop
+==========*/
+@media(max-width: 1440px) {}
+
+/* Laptop | Ipad Pro
+=========*/
+@media(max-width: 1280px) {}
+
+/* iPad
+=======*/
+@media(max-width: 768px) {}
+
+/* Mobile
+=========*/
+@media(max-width: 576px) {
+    .form_register_ .woocommerce-form.woocommerce-form-register.register{
+        width: 100%;
+    }
+
+    .woo.woocommerce-error{
+        width: 100%;
+    }
+}

@@ -1,0 +1,118 @@
+# Translation of Plugins - Contact Form Submissions - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Contact Form Submissions - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-05 08:17:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Contact Form Submissions - Stable (latest release)\n"
+
+#: Admin.php:433
+msgid "Export to CSV"
+msgstr "Als CSV exportieren"
+
+#: Admin.php:433
+msgid "Export the current set of results as CSV"
+msgstr "Aktuelles Set als CSV exportieren"
+
+#: Admin.php:220
+msgid "Files"
+msgstr "Dateien"
+
+#: Admin.php:212
+msgid "Posted"
+msgstr "Veröffentlicht"
+
+#. Author of the plugin
+msgid "Jason Green"
+msgstr "Jason Green"
+
+#. Description of the plugin
+msgid "Never miss an enquiry again! Save all Contact Form 7 submissions in your database."
+msgstr "Nie mehr eine Anfrage verpassen! Speichere alle Einreichungen von Contact Form 7 in deiner Datenbank."
+
+#: Submissions.php:30
+msgid "Post Type Description"
+msgstr "Beitragstyp-Beschreibung"
+
+#: Submissions.php:26
+msgid "Not found in Trash"
+msgstr "Nicht im Papierkorb gefunden"
+
+#: Submissions.php:25
+msgid "Not found"
+msgstr "Seite nicht gefunden"
+
+#: Submissions.php:24
+msgid "Search"
+msgstr "bei der Suche"
+
+#: Submissions.php:21
+msgid "Submissions"
+msgstr "Einträge"
+
+#. Plugin Name of the plugin
+#: Submissions.php:18
+msgid "Contact Form Submissions"
+msgstr "Kontaktformular-Einreichungen"
+
+#: Admin.php:341
+msgid "M j, Y @ H:i"
+msgstr "j. M Y \\u\\m G:i"
+
+#: Admin.php:264
+msgid "Additional Headers"
+msgstr "Zusätzliche Header"
+
+#: Admin.php:258
+msgid "Body"
+msgstr "Text"
+
+#: Admin.php:254
+msgid "Subject"
+msgstr "Titel"
+
+#: Admin.php:250
+msgid "Recipient"
+msgstr "Empfänger"
+
+#: Admin.php:246
+msgid "Sender"
+msgstr "Absender"
+
+#: Admin.php:214
+msgid "Overview"
+msgstr "Überblick"
+
+#: Admin.php:211
+msgid "Mail"
+msgstr "eMail"
+
+#: Admin.php:167
+msgid "Date"
+msgstr "Datum"
+
+#: Submissions.php:19 Submissions.php:20 Submissions.php:22 Submissions.php:23
+#: Submissions.php:29 Admin.php:152
+msgid "Submission"
+msgstr "Einreichung"
+
+#: Admin.php:118
+msgid "View"
+msgstr "Anzeige"
+
+#: Admin.php:83 Admin.php:153 Admin.php:242
+msgid "Contact Form"
+msgstr "Kontakt-Formular:"
+
+#: Admin.php:56
+msgid "Published"
+msgstr "Publiziert"
+
+#: Admin.php:33 Admin.php:56 Admin.php:347
+msgid "Submitted"
+msgstr "Übertragen"

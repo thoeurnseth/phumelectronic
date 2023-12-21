@@ -1,0 +1,121 @@
+:root {
+	--black-color: #000000;
+	--black-gray-color: #cccccc;
+	--blue-color: #255da3;
+	--yellow-color: #e7cb00;
+	--red-color: #ec1c24;
+	--gray-color: #f1f1f1;
+	--gray-black-color: #E5E5E5;
+	--white-color: #ffffff;
+}
+
+.biz-notification *:focus {
+	outline: none !important;
+	box-shadow: none !important;
+}
+
+.biz-notification img {
+	max-width: 100%;
+	height: auto;
+}
+
+.biz-notification section {
+	margin-bottom: 50px;
+}
+
+.biz-notification {
+	margin-top: 50px;
+}
+
+/* Menu Tabs */
+.biz-notification .nav {
+	border-bottom: 1px solid var(--black-gray-color);
+	padding: 0 5px;
+}
+
+.biz-notification .nav .nav-item {
+    margin-bottom: -1px;
+}
+
+.biz-notification .nav .nav-item:not(:last-child) {
+	margin-right: 8px;
+}
+
+.biz-notification .nav .nav-link {
+	border: 1px solid var(--black-gray-color);
+	background-color: var(--gray-black-color);
+	color: var(--black-color);
+	font-size: 14px;
+	font-weight: 500;
+	padding: 5px 10px;
+}
+
+.biz-notification .nav .nav-link.active {
+    border-bottom: 1px solid var(--gray-color);
+    background: var(--gray-color);
+}
+
+/* Tabs Content */
+.biz-notification .tab-content {
+	padding-top: 30px;
+	padding-right: 15px;
+}
+
+/* From */
+.biz-notification .form-row .label,
+.biz-notification .form-group .label {
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.biz-notification .form-group #card_number-error {
+	color: var(--red-color);
+	font-size: 14px;
+	margin-bottom: 0;
+}
+	
+.biz-notification .headline {
+	border-bottom: 1px solid #cccccc;
+	font-size: 18px;
+	margin-bottom: 20px;
+	width: fit-content;
+}
+
+.biz-notification .no-data {
+	color: var(--red-color);
+}
+
+/* Lucky Draw
+=============*/
+.biz-notification .card-content {
+	background-color: var(--white-color);
+	box-shadow: 0 0px 10px 0 rgb(0 0 0 / 15%);
+	border-radius: 3px;
+	padding: 30px;
+}
+.biz-notification .block-card .col:nth-child(6n):not(:last-child) {
+	margin-bottom: 30px;
+}
+
+.biz-notification .block-card .item-wrapper {
+	display: flex;
+	box-shadow: 0 0px 5px 0 rgb(0 0 0 / 30%);
+}
+
+.biz-notification .block-card .item-wrapper .item-profile {
+	max-width: 80px;
+}
+
+.biz-notification .block-card .item-wrapper .item-detail {
+	padding: 10px;
+}
+
+.biz-notification .block-card .item-wrapper .item-detail ul,
+.biz-notification .block-card .item-wrapper .item-detail ul li:last-child {
+	margin-bottom: 0;
+}
+
+.biz-notification .block-card .item-wrapper .item-detail ul li {
+	line-height: 1.2;
+	font-size: 14px;
+}

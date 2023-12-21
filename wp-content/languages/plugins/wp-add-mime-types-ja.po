@@ -1,0 +1,104 @@
+# Translation of Plugins - WP Add Mime Types - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Add Mime Types - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-05 11:37:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Add Mime Types - Stable (latest release)\n"
+
+#: includes/admin.php:150 includes/network-admin.php:142
+msgid "*  If the head in each line is set to \"-\", then the MIME type restricts.<br/>ex. -bmp = image/bmp<br/>The files which has \"bmp\" file extention becomes not to be able to upload."
+msgstr "各行の先頭に -（ハイフン） を設定すると、その MIMEタイプが制限されます。<br/>例） -bmp = image/bmp<br/>bmp拡張子のファイルは、アップロードできなくなります。"
+
+#: includes/admin.php:142 includes/network-admin.php:134
+msgid "Enable to debug output for file types recognized by WordPress when a file is uploaded by the media. <br/>* By enabling both this option and the \"Enable the attempt to determine the real file type of a file by WordPress core.\", the file type is displayed if it is uploaded from Media.<br/>* PLEASE keep in mind that a file uploads are stopped while they are being processed if the both of two options are enabled. Therefore, be sure to disable this debugging option after debugging."
+msgstr "メディアからファイルがアップロードされた際に、WordPressが認識したファイルタイプのデバッグ出力を有効にします。<br/>* このオプションと「WordPress コアによるファイルの実際のファイルタイプを判別する試みを有効にします。」の両方を有効にすることで、メディアからファイルがアップロードされた場合にファイルタイプを表示します。<br/>* この不達のオプションを有効にすると、ファイルのアップロード処理中に止まります。そのため、デバッグ後は必ずこのデバッグオプションを無効にしてください。"
+
+#: wp-add-mime-types.php:149
+msgid "WordPress recognizes that the file type is ["
+msgstr "WordPress は、ファイルタイプを次のように認識しています： ["
+
+#: includes/admin.php:138 includes/network-admin.php:130
+msgid "Enable to sanitize the multiple file extensions within the filename by WordPress core."
+msgstr "WordPress コアによって、ファイル名内の複数のファイル拡張子をサニタイズできるようにします。"
+
+#: includes/admin.php:134 includes/network-admin.php:126
+msgid "Enable the attempt to determine the real file type of a file by WordPress core."
+msgstr "WordPress コアによるファイルの実際のファイルタイプを判別する試みを有効にします。"
+
+#: includes/admin.php:128 includes/network-admin.php:121
+msgid "* The plugin avoids some security checks by WordPress core. If you do not want to avoid them, please turn on the following setting."
+msgstr "*プラグインは、WordPress コアによるいくつかのセキュリティチェックを回避します。それらを避けたくない場合は、次の設定をオンにしてください。"
+
+#: includes/admin.php:127 includes/network-admin.php:120
+msgid "Security Options"
+msgstr "セキュリティオプション"
+
+#: includes/admin.php:149 includes/network-admin.php:141
+msgid "* Ignore to the right of \"#\" on a line. "
+msgstr "行の # の右側は無視されます。"
+
+#: includes/admin.php:148 includes/network-admin.php:140
+msgid "* About the mime type value for the file extension, please search \"mime type [file extension name] using a search engine.<br/>Ex. epub = application/epub+zip<br/>Reference: <a href=\"http://www.iana.org/assignments/media-types/media-types.xhtml\" target=\"_blank\">Media Types on the Internet Assigned Numbers Authority (IANA)</a><br/>* If the added mime type does not work, please deactivate other mime type plugins or the setting of other mime type plugins."
+msgstr "※ 拡張子の MIME タイプについては、「mime type 拡張子名」で検索してみてください。<br/>例）epub = application/epub+zip<br/>参考：<a href=\"http://www.iana.org/assignments/media-types/media-types.xhtml\" target=\"_blank\">Media Types on the Internet Assigned Numbers Authority (IANA)</a><br/>※もし追加した MIME タイプが動作しない場合には、他の MIME タイプ関連のプラグインの設定を無効にするか、プラグインそのものを無効化してみてください。"
+
+#: includes/network-admin.php:12 includes/network-admin.php:71
+msgid "WP Add Mime Types Admin Settings for Network Administrator"
+msgstr "ネットワーク管理者のための WP Add Mime Types 管理設定"
+
+#: includes/admin.php:168
+msgid "* This is for  multisite network administrators and site administrators.<br/> The following values are disabled after multisite function was enabled."
+msgstr "これは、マルチサイトネットワーク管理者およびサイト管理者用です。<br/>下記の値は、マルチサイトが有効になった場合、適応されません。"
+
+#: includes/admin.php:167
+msgid "Past Add Values before Multisite function was enabled."
+msgstr "マルチサイトが有効になる前の過去に追加した値"
+
+#: includes/admin.php:129 includes/admin.php:151
+msgid "* The site administrator cannot add the value for mime type because the multisite is enabled. <br/>Please contact the multisite administrator if you would like to add the value."
+msgstr "※ マルチサイトが有効のため、サイト管理者は MIME タイプの設定を追加できません。 <br/> もし設定を追加したい場合には、マルチサイト管理者へ連絡してください。"
+
+#. Author URI of the plugin
+msgid "http://kitaney-wordpress.blogspot.jp/"
+msgstr "http://kitaney-wordpress.blogspot.jp/"
+
+#. Author of the plugin
+msgid "Kimiya Kitani"
+msgstr "木谷 公哉"
+
+#. Description of the plugin
+msgid "The plugin additionally allows the mime types and file extensions to WordPress."
+msgstr "このプラグインは、WordPressへ MIMEタイプと拡張子を追加で許可します。"
+
+#. Plugin Name of the plugin
+msgid "WP Add Mime Types"
+msgstr "WP Add Mime Types"
+
+#: includes/admin.php:181 includes/network-admin.php:150
+msgid "Save"
+msgstr "設定を保存"
+
+#: includes/admin.php:147 includes/network-admin.php:139
+msgid "Add Values"
+msgstr "追加の項目"
+
+#: includes/admin.php:84 includes/network-admin.php:77
+msgid "List of allowed mime types and file extensions by WordPress"
+msgstr "List of allowed mime types and file extensions by WordPress"
+
+#: includes/admin.php:75 includes/network-admin.php:68
+msgid "Updated"
+msgstr "更新されました"
+
+#: includes/admin.php:5 includes/network-admin.php:12
+msgid "Mime Type Settings"
+msgstr "Mime Type設定"
+
+#: includes/admin.php:5 includes/admin.php:78
+msgid "WP Add Mime Types Admin Settings"
+msgstr "WP Add Mime Types 管理設定"

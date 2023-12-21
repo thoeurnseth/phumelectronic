@@ -1,0 +1,32 @@
+/**
+ * Description: This file for CSS.
+ * Version: 1.0.0
+ * Author: Biz Solution Co., Ltd.
+ * Author URI: https://bizsolution.com.kh
+ * @package Biz Solution
+ */
+
+/**
+ * cl = color
+ * bg = background
+ */
+:root {
+    --cl-black: #000000;
+    --bg-white: #FFFFFF;
+}
+
+/* Desktop
+==========*/
+@media(max-width: 1440px) {}
+
+/* Laptop | Ipad Pro
+=========*/
+@media(max-width: 1280px) {}
+
+/* iPad
+=======*/
+@media(max-width: 768px) {}
+
+/* Mobile
+=========*/
+@media(max-width: 576px) {}

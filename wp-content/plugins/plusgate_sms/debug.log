@@ -1,0 +1,2311 @@
+[06-Mar-2023 16:24:29 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[06-Mar-2023 16:24:30 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "b23861d1-f0b7-4440-a16d-b72cf4adbdc6"
+}
+
+[06-Mar-2023 16:25:29 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[06-Mar-2023 16:25:30 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "43f77a6e-1f29-45a8-946a-f23a65c102b7"
+}
+
+[06-Mar-2023 16:25:30 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+)
+
+[06-Mar-2023 16:32:32 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[06-Mar-2023 16:32:33 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "3496bb59-aa54-4913-9a36-2f19ceab9337"
+}
+
+[06-Mar-2023 16:32:33 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 6543
+)
+
+[06-Mar-2023 16:32:33 Asia/Bangkok] PHP Notice:  Trying to get property 'otp' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 76
+[06-Mar-2023 16:56:01 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[06-Mar-2023 16:56:02 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "4dd44380-0660-4d9d-a647-9c05b735eb7b"
+}
+
+[06-Mar-2023 16:56:02 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 3091
+)
+
+[06-Mar-2023 16:56:02 Asia/Bangkok] PHP Notice:  Undefined variable: result_id in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 150
+[06-Mar-2023 16:56:02 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 150
+[07-Mar-2023 11:15:55 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 11:15:56 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "9aa8526f-ab04-4eae-9107-3716546d8097"
+}
+
+[07-Mar-2023 11:15:56 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 9730
+)
+
+[07-Mar-2023 11:15:56 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 83
+[07-Mar-2023 11:15:56 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_register_temporary_` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '333333') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[07-Mar-2023 11:45:24 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 11:45:25 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "f5fa6699-5019-4011-a804-a2e52b123f03"
+}
+
+[07-Mar-2023 11:45:25 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 7970
+)
+
+[07-Mar-2023 11:45:25 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 83
+[07-Mar-2023 11:45:25 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_register_temporary_` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '7970') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[07-Mar-2023 11:45:28 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 11:45:29 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "bd52c885-7216-481d-bbbb-2927d1736f7a"
+}
+
+[07-Mar-2023 11:45:29 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 9087
+)
+
+[07-Mar-2023 11:45:29 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 83
+[07-Mar-2023 11:45:29 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_register_temporary_` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '9087') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[07-Mar-2023 11:45:48 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 11:45:49 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "2e4b54a9-976a-434c-9235-687a6d1a071a"
+}
+
+[07-Mar-2023 11:45:49 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 8728
+)
+
+[07-Mar-2023 11:45:49 Asia/Bangkok] PHP Notice:  Undefined variable: user_id in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 153
+[07-Mar-2023 11:46:51 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 11:46:52 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "b3a909f2-e8e6-4014-bad7-b101f468602b"
+}
+
+[07-Mar-2023 11:46:52 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 544370
+)
+
+[07-Mar-2023 11:46:52 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 83
+[07-Mar-2023 11:46:52 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_register_temporary_` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '544370') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[07-Mar-2023 11:47:44 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 11:47:45 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "7b308d1c-9a20-4cc3-b2bb-0aa07e77da8f"
+}
+
+[07-Mar-2023 11:47:45 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 522478
+)
+
+[07-Mar-2023 11:47:45 Asia/Bangkok] PHP Notice:  Undefined variable: user_id in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 153
+[07-Mar-2023 11:48:14 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 11:48:15 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "e2bdf081-1245-4d7a-8b48-619d532346c3"
+}
+
+[07-Mar-2023 11:48:15 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 212382
+)
+
+[07-Mar-2023 11:48:15 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 83
+[07-Mar-2023 11:48:15 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_register_temporary_` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '212382') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[07-Mar-2023 13:58:24 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 13:58:25 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "356a4fa8-5fbf-4651-a7a5-961f45f638c8"
+}
+
+[07-Mar-2023 13:58:25 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 219772
+)
+
+[07-Mar-2023 13:58:25 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[07-Mar-2023 13:58:25 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '219772') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[07-Mar-2023 13:58:53 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 13:58:54 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "1deecf39-011c-45c8-ba4b-92e693f20dba"
+}
+
+[07-Mar-2023 13:58:54 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 879608
+)
+
+[07-Mar-2023 13:58:54 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[07-Mar-2023 13:58:54 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '879608') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[07-Mar-2023 13:59:12 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 13:59:13 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "b52e415a-b10e-44d2-87bd-38d358d86b42"
+}
+
+[07-Mar-2023 13:59:13 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 183092
+)
+
+[07-Mar-2023 13:59:13 Asia/Bangkok] PHP Notice:  Undefined variable: user_id in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 153
+[07-Mar-2023 14:45:13 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Mar-2023 14:45:14 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "4f69dc07-8db7-4633-9f5a-307308228fdb"
+}
+
+[07-Mar-2023 14:45:14 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 845876
+)
+
+[07-Mar-2023 14:45:14 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 85
+[07-Mar-2023 14:45:14 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '845876') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:03:58 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:03:59 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "d19a8c73-bad8-4c56-84bc-b71b5fdf0f4a"
+}
+
+[10-Mar-2023 11:03:59 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 306981
+)
+
+[10-Mar-2023 11:03:59 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:03:59 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '306981') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:04:07 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:04:07 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 11:06:06 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:06:07 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "ccfcc9c6-6391-4b0e-bd27-d74b68c78e32"
+}
+
+[10-Mar-2023 11:06:07 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 133393
+)
+
+[10-Mar-2023 11:06:07 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:06:07 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '133393') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:06:08 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:06:08 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 11:12:21 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:12:22 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "c7f40b04-762f-456e-b6d0-4861f6c71c8d"
+}
+
+[10-Mar-2023 11:12:22 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 225607
+)
+
+[10-Mar-2023 11:12:22 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:12:22 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '225607') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:12:22 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:12:22 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 11:12:30 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:12:31 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "b4040d38-e611-4356-afd3-5699136dd985"
+}
+
+[10-Mar-2023 11:12:31 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 110631
+)
+
+[10-Mar-2023 11:12:31 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:12:31 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '110631') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:12:31 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:12:31 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 11:13:56 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:13:57 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "c690c541-9c32-4e58-8e62-63efc8559118"
+}
+
+[10-Mar-2023 11:13:57 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 934133
+)
+
+[10-Mar-2023 11:13:57 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:13:57 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '934133') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:13:57 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:13:57 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 11:16:51 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:16:52 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "f42751da-0f49-4130-8cbc-c22443567426"
+}
+
+[10-Mar-2023 11:16:52 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 758666
+)
+
+[10-Mar-2023 11:16:52 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:16:52 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '758666') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:16:52 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:16:52 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 11:19:04 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:19:05 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "ec384bdd-53ee-4c36-8c99-3bd73d3900ce"
+}
+
+[10-Mar-2023 11:19:05 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 644796
+)
+
+[10-Mar-2023 11:19:05 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:19:05 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '644796') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:19:05 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 420
+[10-Mar-2023 11:19:05 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 437
+[10-Mar-2023 11:20:04 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:20:04 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "a4f86f76-043e-4aa8-aaeb-0a085af6b570"
+}
+
+[10-Mar-2023 11:20:04 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 143583
+)
+
+[10-Mar-2023 11:20:04 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:20:04 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '143583') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:20:05 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:20:05 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 11:22:19 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:22:20 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "636a7831-ea68-472c-95c1-ac2ebe2273ae"
+}
+
+[10-Mar-2023 11:22:20 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 410139
+)
+
+[10-Mar-2023 11:22:20 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:22:20 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '410139') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:22:20 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:22:20 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 11:33:57 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:33:58 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "c910c4b9-c4d0-4eb4-8593-969ed6cd2f5a"
+}
+
+[10-Mar-2023 11:33:58 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 860599
+)
+
+[10-Mar-2023 11:33:58 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:33:58 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '860599') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:33:58 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:33:58 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 11:34:09 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 11:34:10 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "a21df022-893f-4f9a-8df2-0eea924563be"
+}
+
+[10-Mar-2023 11:34:10 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 809102
+)
+
+[10-Mar-2023 11:34:10 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 11:34:10 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '809102') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 11:34:10 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 421
+[10-Mar-2023 11:34:10 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 438
+[10-Mar-2023 13:51:53 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 13:51:54 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "a5b803b7-49eb-4ff1-a5f8-5873c411b9c4"
+}
+
+[10-Mar-2023 13:51:54 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 484402
+)
+
+[10-Mar-2023 13:51:54 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 13:51:54 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '484402') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 13:51:54 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 426
+[10-Mar-2023 13:51:54 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 443
+[10-Mar-2023 13:52:26 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 13:52:27 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "a81243d1-d6bd-44e8-affb-4c32adda8f89"
+}
+
+[10-Mar-2023 13:52:27 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 767388
+)
+
+[10-Mar-2023 13:52:27 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 13:52:27 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '767388') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 13:52:27 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 136
+[10-Mar-2023 14:08:47 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 14:08:47 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "c14d0af3-adfa-4df4-925a-34700b31df07"
+}
+
+[10-Mar-2023 14:08:47 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 186595
+)
+
+[10-Mar-2023 14:08:47 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 14:08:47 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '186595') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 14:08:47 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 136
+[10-Mar-2023 14:09:28 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 14:09:29 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "2b866026-711c-48d8-943f-07b605d39d6b"
+}
+
+[10-Mar-2023 14:09:29 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 113645
+)
+
+[10-Mar-2023 14:09:29 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 14:09:29 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '113645') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 14:10:09 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[10-Mar-2023 14:10:10 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "abdd89cb-fa0f-4ee7-9abd-6974f2a644ce"
+}
+
+[10-Mar-2023 14:10:10 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 361055
+)
+
+[10-Mar-2023 14:10:10 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 84
+[10-Mar-2023 14:10:10 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '361055') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[10-Mar-2023 14:10:10 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 428
+[10-Mar-2023 14:10:10 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 445
+[17-Mar-2023 09:09:27 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[17-Mar-2023 09:09:28 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "c8a8495b-b8b5-4f9e-9001-d3977ec14412"
+}
+
+[17-Mar-2023 09:09:28 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 169150
+)
+
+[17-Mar-2023 09:09:28 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 124
+[17-Mar-2023 09:09:28 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '169150') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[17-Mar-2023 09:10:01 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[17-Mar-2023 09:10:02 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "541e5a75-4367-47b9-81be-d9fb626d6c79"
+}
+
+[17-Mar-2023 09:10:02 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 561229
+)
+
+[17-Mar-2023 09:10:02 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 124
+[17-Mar-2023 09:10:02 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '561229') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[17-Mar-2023 09:10:06 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[17-Mar-2023 09:10:07 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "405f5fc2-f2a0-40fe-ac05-655f852f49d1"
+}
+
+[17-Mar-2023 09:10:07 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 729968
+)
+
+[17-Mar-2023 09:10:07 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 124
+[17-Mar-2023 09:10:07 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '729968') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[17-Mar-2023 09:11:54 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[17-Mar-2023 09:11:55 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "b15eac0e-9fbe-481e-a0dc-8e5cfb31a699"
+}
+
+[17-Mar-2023 09:11:55 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 279663
+)
+
+[17-Mar-2023 09:12:23 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[17-Mar-2023 09:12:24 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "a7c7e09f-6956-4f44-8c06-198d14210411"
+}
+
+[17-Mar-2023 09:12:24 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 963865
+)
+
+[17-Mar-2023 09:12:24 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 124
+[17-Mar-2023 09:12:24 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '963865') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[17-Mar-2023 09:12:24 Asia/Bangkok] PHP Deprecated:  Non-static method Woocommerce_Register_Account_::curl() should not be called statically in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 542
+[17-Mar-2023 09:12:24 Asia/Bangkok] PHP Deprecated:  Non-static method Woocommerce_Register_Account_::curl() should not be called statically in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 542
+[17-Mar-2023 11:22:19 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[17-Mar-2023 11:22:22 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "79fbb356-e82e-40b4-8e19-174cb4a2e201"
+}
+
+[17-Mar-2023 11:22:22 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 770482
+)
+
+[17-Mar-2023 11:22:22 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 124
+[17-Mar-2023 11:22:22 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '770482') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[17-Mar-2023 11:30:26 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[17-Mar-2023 11:30:27 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "42f734a2-5cf6-4314-a36a-abf99f5776a8"
+}
+
+[17-Mar-2023 11:30:27 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 390674
+)
+
+[17-Mar-2023 11:30:27 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 124
+[17-Mar-2023 11:30:27 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '390674') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[17-Mar-2023 11:30:30 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[17-Mar-2023 11:30:31 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "daad53df-eec0-4025-9aa2-8f60472d6e83"
+}
+
+[17-Mar-2023 11:30:31 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 664192
+)
+
+[17-Mar-2023 11:30:31 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 124
+[17-Mar-2023 11:30:31 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '664192') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Account_::woocommerce_register_account_shortcode, Woocommerce_Register_Account_::custom_registration_function_
+[20-Mar-2023 13:22:51 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[20-Mar-2023 13:22:52 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "88a0c597-ae69-4a5a-a283-8b5ede545afe"
+}
+
+[20-Mar-2023 13:22:52 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 602582
+)
+
+[22-Mar-2023 14:38:41 Asia/Bangkok] Array
+(
+    [code] => 406
+    [message] => Somthing unstable, please try again..!
+    [error] => Missing parameter, please check connection or coding.
+)
+
+[22-Mar-2023 14:38:41 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 828
+[22-Mar-2023 14:39:39 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[22-Mar-2023 14:39:40 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "b51f40be-b2db-4742-8eaf-d43ec9053119"
+}
+
+[22-Mar-2023 14:39:40 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 276124
+)
+
+[22-Mar-2023 14:41:48 Asia/Bangkok] Array
+(
+    [code] => 406
+    [message] => Somthing unstable, please try again..!
+    [error] => Missing parameter, please check connection or coding.
+)
+
+[22-Mar-2023 14:41:48 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 827
+[22-Mar-2023 14:43:24 Asia/Bangkok] Array
+(
+    [code] => 406
+    [message] => Somthing unstable, please try again..!
+    [error] => Missing parameter, please check connection or coding.
+)
+
+[22-Mar-2023 14:43:24 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 828
+[22-Mar-2023 14:44:49 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[22-Mar-2023 14:44:50 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "159102dc-59fa-41c1-a369-3f17af48b367"
+}
+
+[22-Mar-2023 14:44:50 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 284496
+)
+
+[23-Mar-2023 09:44:37 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 09:44:39 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "64eb7d55-7def-45d6-8698-31b5f4d3824d"
+}
+
+[23-Mar-2023 09:44:39 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 166943
+)
+
+[23-Mar-2023 13:54:47 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 13:54:48 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "9735cb02-1fe1-485a-8b6b-35ac99a975d0"
+}
+
+[23-Mar-2023 13:54:48 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 245319
+)
+
+[23-Mar-2023 13:58:33 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 13:58:34 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "bb8bfe83-003d-466c-ab4f-f8880470db0a"
+}
+
+[23-Mar-2023 13:58:34 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 472324
+)
+
+[23-Mar-2023 13:58:34 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 497
+[23-Mar-2023 14:09:00 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 14:09:01 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "18d162ad-20f9-4699-86e7-b543cd808a44"
+}
+
+[23-Mar-2023 14:09:01 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 656725
+)
+
+[23-Mar-2023 15:28:43 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 15:28:44 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "76bbf66a-31cf-4382-ac84-af451ee3cb74"
+}
+
+[23-Mar-2023 15:28:44 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 666283
+)
+
+[23-Mar-2023 15:28:44 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 154
+[23-Mar-2023 15:28:44 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '666283') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registration_function_
+[23-Mar-2023 15:28:44 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 498
+[23-Mar-2023 15:28:47 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 15:28:48 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "c35900c1-b8a9-4472-9dd4-dc3a6225be9a"
+}
+
+[23-Mar-2023 15:28:48 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 525210
+)
+
+[23-Mar-2023 15:28:48 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 154
+[23-Mar-2023 15:28:48 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '525210') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registration_function_
+[23-Mar-2023 15:28:48 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 498
+[23-Mar-2023 15:29:49 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 15:29:50 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "d44d90b1-88fa-419d-9cbc-bc47f231d3b0"
+}
+
+[23-Mar-2023 15:29:50 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 373807
+)
+
+[23-Mar-2023 15:29:50 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 498
+[23-Mar-2023 15:34:32 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 15:34:33 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "182cc670-4573-43e2-885c-bf700de1359a"
+}
+
+[23-Mar-2023 15:34:33 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 867916
+)
+
+[23-Mar-2023 15:34:33 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 500
+[23-Mar-2023 15:50:40 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 15:50:41 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "37ab92e9-a15b-4fab-ab55-250b49c6f744"
+}
+
+[23-Mar-2023 15:50:41 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 631993
+)
+
+[23-Mar-2023 15:50:41 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 502
+[23-Mar-2023 16:08:38 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 16:08:39 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "ea5aa6d8-d17a-4b0a-92f5-ceb94f30cccd"
+}
+
+[23-Mar-2023 16:08:39 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 127012
+)
+
+[23-Mar-2023 16:08:39 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 505
+[23-Mar-2023 17:09:12 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 17:09:13 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "ee77ad76-1a96-4ccc-a0f4-3990b9e61143"
+}
+
+[23-Mar-2023 17:09:13 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 186710
+)
+
+[23-Mar-2023 17:09:13 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 496
+[23-Mar-2023 17:12:51 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 17:12:52 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "1dfd586d-088a-4178-a006-1958381a4ca1"
+}
+
+[23-Mar-2023 17:12:52 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 401722
+)
+
+[23-Mar-2023 17:12:52 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 496
+[23-Mar-2023 17:47:39 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 17:47:40 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "42faffd0-4bf4-4854-a7f4-a3c693f471c0"
+}
+
+[23-Mar-2023 17:47:40 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 116911
+)
+
+[23-Mar-2023 17:47:40 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 160
+[23-Mar-2023 17:47:40 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '116911') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registration_function_
+[23-Mar-2023 17:47:40 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 502
+[23-Mar-2023 17:48:06 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 17:48:07 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "c799e48a-c99b-447f-bdbb-f6a6c3bc6154"
+}
+
+[23-Mar-2023 17:48:07 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 323890
+)
+
+[23-Mar-2023 17:48:07 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 502
+[23-Mar-2023 18:06:14 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[23-Mar-2023 18:06:15 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "b738b602-eee1-448e-a8ec-7908b267d213"
+}
+
+[23-Mar-2023 18:06:15 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 902646
+)
+
+[23-Mar-2023 18:06:15 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 162
+[23-Mar-2023 18:06:15 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '902646') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registration_function_
+[23-Mar-2023 18:06:15 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 504
+[24-Mar-2023 09:11:13 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[24-Mar-2023 09:11:14 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "7f320a40-0e88-45fb-9989-a0b6ebad6399"
+}
+
+[24-Mar-2023 09:11:14 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 240691
+)
+
+[24-Mar-2023 09:11:14 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 161
+[24-Mar-2023 09:11:14 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '240691') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registration_function_
+[24-Mar-2023 09:11:14 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 503
+[24-Mar-2023 09:11:17 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[24-Mar-2023 09:11:18 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "83b2b09d-f48c-4f73-9ed4-04c13f45904a"
+}
+
+[24-Mar-2023 09:11:18 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 932631
+)
+
+[24-Mar-2023 09:11:18 Asia/Bangkok] PHP Notice:  Undefined variable: phones in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 161
+[24-Mar-2023 09:11:18 Asia/Bangkok] WordPress database error Column 'first_name' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `otp`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '932631') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registration_function_
+[24-Mar-2023 09:11:18 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 503
+[24-Mar-2023 09:11:30 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[24-Mar-2023 09:11:31 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "945e4813-7975-4422-a178-8a4a16f84ef3"
+}
+
+[24-Mar-2023 09:11:31 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 626445
+)
+
+[24-Mar-2023 09:11:31 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 503
+[27-Mar-2023 14:05:16 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 14:05:16 Asia/Bangkok] 403 Forbidden
+[27-Mar-2023 14:05:16 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 14:05:16 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 14:05:16 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[27-Mar-2023 14:05:16 Asia/Bangkok] WordPress database error Column 'otp' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `invite_code`, `otp`) VALUES ('sevmey', 'mey', '0972013150', 'sevmeymey@gmail.com', 'sevmeymey', 'sevmeymey55', 'mam9934843Z', NULL) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registrations_function
+[27-Mar-2023 14:05:16 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 640
+[27-Mar-2023 14:05:48 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 14:05:48 Asia/Bangkok] 403 Forbidden
+[27-Mar-2023 14:05:48 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 14:05:48 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 14:05:48 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[27-Mar-2023 14:05:48 Asia/Bangkok] WordPress database error Column 'otp' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `invite_code`, `otp`) VALUES ('sevmey', 'mey', '0972013150', 'sevmeymey@gmail.com', 'sevmeymey', 'sevmeymey', '', NULL) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registrations_function
+[27-Mar-2023 14:05:48 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 640
+[27-Mar-2023 14:06:50 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 14:06:51 Asia/Bangkok] 403 Forbidden
+[27-Mar-2023 14:06:51 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 14:06:51 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 14:06:51 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[27-Mar-2023 14:16:07 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 14:16:07 Asia/Bangkok] 403 Forbidden
+[27-Mar-2023 14:16:07 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 14:16:07 Asia/Bangkok] 
+[27-Mar-2023 14:16:07 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 14:16:07 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[27-Mar-2023 14:18:15 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 14:18:15 Asia/Bangkok] 403 Forbidden
+[27-Mar-2023 14:18:15 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 14:18:15 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 748363.
+)
+
+[27-Mar-2023 14:18:15 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 14:18:15 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[27-Mar-2023 14:30:52 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 14:30:53 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "cc78c6fb-0020-483c-9afb-8d975c834ac8"
+}
+
+[27-Mar-2023 14:30:53 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 351559.
+)
+
+[27-Mar-2023 14:30:53 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 351559
+)
+
+[27-Mar-2023 14:42:58 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 14:42:59 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "d039ea25-2434-4205-89c6-b4e4ea2c60ba"
+}
+
+[27-Mar-2023 14:42:59 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 666240.
+)
+
+[27-Mar-2023 14:42:59 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 666240
+)
+
+[27-Mar-2023 17:04:27 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 17:04:28 Asia/Bangkok] 203 Non-Authoritative Information
+[27-Mar-2023 17:04:28 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 17:04:28 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 510324.
+)
+
+[27-Mar-2023 17:04:28 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 17:04:28 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[27-Mar-2023 17:04:56 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 17:04:56 Asia/Bangkok] 203 Non-Authoritative Information
+[27-Mar-2023 17:04:56 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 17:04:56 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 822155.
+)
+
+[27-Mar-2023 17:04:56 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 17:04:56 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[27-Mar-2023 17:05:57 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 17:05:57 Asia/Bangkok] 203 Non-Authoritative Information
+[27-Mar-2023 17:05:57 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 17:05:57 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 85555972013150
+    [content] => Here is the OTP number: 685130.
+)
+
+[27-Mar-2023 17:05:57 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 17:05:57 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[27-Mar-2023 17:14:42 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 17:14:42 Asia/Bangkok] 203 Non-Authoritative Information
+[27-Mar-2023 17:14:42 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 17:14:42 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 334265.
+)
+
+[27-Mar-2023 17:14:42 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 17:14:42 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[27-Mar-2023 17:14:53 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[27-Mar-2023 17:14:53 Asia/Bangkok] 203 Non-Authoritative Information
+[27-Mar-2023 17:14:53 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[27-Mar-2023 17:14:53 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 220696.
+)
+
+[27-Mar-2023 17:14:53 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[27-Mar-2023 17:14:53 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[28-Mar-2023 13:54:48 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[28-Mar-2023 13:54:48 Asia/Bangkok] 203 Non-Authoritative Information
+[28-Mar-2023 13:54:48 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[28-Mar-2023 13:54:48 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 206823.
+)
+
+[28-Mar-2023 13:54:48 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[28-Mar-2023 13:54:48 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[28-Mar-2023 13:55:39 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[28-Mar-2023 13:55:39 Asia/Bangkok] 203 Non-Authoritative Information
+[28-Mar-2023 13:55:39 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[28-Mar-2023 13:55:39 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 804086.
+)
+
+[28-Mar-2023 13:55:39 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[28-Mar-2023 13:55:39 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[28-Mar-2023 13:56:08 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[28-Mar-2023 13:56:08 Asia/Bangkok] 203 Non-Authoritative Information
+[28-Mar-2023 13:56:08 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[28-Mar-2023 13:56:08 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 115907.
+)
+
+[28-Mar-2023 13:56:08 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[28-Mar-2023 13:56:08 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[28-Mar-2023 14:04:28 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[28-Mar-2023 14:04:28 Asia/Bangkok] 203 Non-Authoritative Information
+[28-Mar-2023 14:04:28 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[28-Mar-2023 14:04:28 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 496930.
+)
+
+[28-Mar-2023 14:04:28 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[28-Mar-2023 14:04:28 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[28-Mar-2023 14:04:28 Asia/Bangkok] WordPress database error Column 'otp' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `invite_code`, `otp`) VALUES ('veng', 'van', '0972013150', 'van12seth1@gmail.com', 'van12seth1', 'van12seth1', '', NULL) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registrations_function
+[28-Mar-2023 14:04:28 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 677
+[28-Mar-2023 14:04:50 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[28-Mar-2023 14:04:50 Asia/Bangkok] 203 Non-Authoritative Information
+[28-Mar-2023 14:04:50 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[28-Mar-2023 14:04:50 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 763431.
+)
+
+[28-Mar-2023 14:04:50 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[28-Mar-2023 14:04:50 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[28-Mar-2023 14:04:50 Asia/Bangkok] WordPress database error Column 'otp' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `invite_code`, `otp`) VALUES ('veng', 'van', '0972013150', 'van12seth1@gmail.com', 'van12seth1', 'van12seth1', '', NULL) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registrations_function
+[28-Mar-2023 14:04:50 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 677
+[28-Mar-2023 14:05:44 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[28-Mar-2023 14:05:44 Asia/Bangkok] 203 Non-Authoritative Information
+[28-Mar-2023 14:05:44 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[28-Mar-2023 14:05:44 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 848341.
+)
+
+[28-Mar-2023 14:05:44 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[28-Mar-2023 14:05:44 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[28-Mar-2023 14:05:44 Asia/Bangkok] WordPress database error Column 'otp' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `invite_code`, `otp`) VALUES ('Thoeurn', 'van', '0972013150', 'van12seth1@gmail.com', 'van12seth1', 'van12seth1', '', NULL) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registrations_function
+[28-Mar-2023 14:05:44 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 677
+[29-Mar-2023 16:28:03 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[29-Mar-2023 16:28:04 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "fc6b1cbe-7afd-4c34-8e79-981ff413b4c9"
+}
+
+[29-Mar-2023 16:28:04 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 85570923944
+    [content] => Here is the OTP number: 285683.
+)
+
+[29-Mar-2023 16:28:04 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 285683
+)
+
+[29-Mar-2023 16:28:04 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 711
+[29-Mar-2023 16:33:44 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[29-Mar-2023 16:33:45 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "7e435d1b-842f-4a6b-811f-eb1014854387"
+}
+
+[29-Mar-2023 16:33:45 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 85570923944
+    [content] => Here is the OTP number: 346971.
+)
+
+[29-Mar-2023 16:33:45 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 346971
+)
+
+[29-Mar-2023 16:33:45 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 711
+[29-Mar-2023 16:55:30 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+)
+
+[29-Mar-2023 16:56:08 Asia/Bangkok] Array
+(
+    [code] => 404
+    [message] => The OTP number is invalid, please check your OTP number and try again.
+    [error] => OTP number is not found in database.
+)
+
+[29-Mar-2023 16:56:22 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP verfied successfully.
+    [error] => 
+)
+
+[29-Mar-2023 17:12:51 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[29-Mar-2023 17:12:52 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "8811c56e-5f67-4243-afe5-bbf7bc8b7933"
+}
+
+[29-Mar-2023 17:12:52 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 196315.
+)
+
+[29-Mar-2023 17:12:52 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 196315
+)
+
+[29-Mar-2023 17:12:52 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 711
+[29-Mar-2023 17:23:35 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[29-Mar-2023 17:23:36 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "6ec628aa-f3d0-4c2f-81ff-29ca865e83b9"
+}
+
+[29-Mar-2023 17:23:36 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 565929.
+)
+
+[29-Mar-2023 17:23:36 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 565929
+)
+
+[29-Mar-2023 17:23:36 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 711
+[29-Mar-2023 17:27:59 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[29-Mar-2023 17:28:00 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "96ab8113-499e-478c-8afa-cc4effe1b152"
+}
+
+[29-Mar-2023 17:28:00 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 335097.
+)
+
+[29-Mar-2023 17:28:00 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 335097
+)
+
+[29-Mar-2023 17:28:00 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 708
+[29-Mar-2023 17:28:34 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[29-Mar-2023 17:28:35 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "017c1a12-5336-45c5-89a3-78aa0d613b2f"
+}
+
+[29-Mar-2023 17:28:35 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 184777.
+)
+
+[29-Mar-2023 17:28:35 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 184777
+)
+
+[29-Mar-2023 17:28:35 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 708
+[29-Mar-2023 17:36:41 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[29-Mar-2023 17:36:42 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "978cee3f-6266-433a-a527-b8a032d8dbff"
+}
+
+[29-Mar-2023 17:36:42 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 342184.
+)
+
+[29-Mar-2023 17:36:42 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 342184
+)
+
+[29-Mar-2023 17:36:42 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 707
+[03-Apr-2023 15:16:13 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+)
+
+[05-Jun-2023 09:15:43 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[05-Jun-2023 09:15:44 Asia/Bangkok] Not enough credit
+[05-Jun-2023 09:15:44 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 59
+[05-Jun-2023 09:15:44 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 392953.
+)
+
+[05-Jun-2023 09:15:44 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[05-Jun-2023 09:15:44 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[05-Jun-2023 09:15:44 Asia/Bangkok] WordPress database error Column 'otp' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `invite_code`, `otp`) VALUES ('ss', 'sss', '0972013150', 'thoeurnseths1ssss@gmail.com', 'thoeurnseths1ssss', 'thoeurnseths1ssss', '', NULL) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registrations_function
+[05-Jun-2023 09:15:44 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 709
+[05-Jun-2023 10:18:32 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[05-Jun-2023 10:18:32 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 58
+[05-Jun-2023 10:18:33 Asia/Bangkok] Not enough credit
+[05-Jun-2023 10:18:33 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 62
+[05-Jun-2023 10:18:33 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 553062.
+)
+
+[05-Jun-2023 10:18:33 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[05-Jun-2023 10:18:33 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[05-Jun-2023 10:18:33 Asia/Bangkok] WordPress database error Column 'otp' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `invite_code`, `otp`) VALUES ('ss', 'sss', '0972013150', 'thoeurnseths1ssss@gmail.com', 'thoeurnseths1ssss', 'thoeurnseths1ssss', '', NULL) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registrations_function
+[05-Jun-2023 10:18:33 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 709
+[05-Jun-2023 10:18:47 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[05-Jun-2023 10:18:47 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 58
+[05-Jun-2023 10:18:48 Asia/Bangkok] Not enough credit
+[05-Jun-2023 10:18:48 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 62
+[05-Jun-2023 10:18:48 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 518690.
+)
+
+[05-Jun-2023 10:18:48 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[05-Jun-2023 10:18:48 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[05-Jun-2023 10:18:48 Asia/Bangkok] WordPress database error Column 'otp' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `invite_code`, `otp`) VALUES ('ss', 'sss', '0972013150', 'thoeurnseths1ssss@gmail.com', 'thoeurnseths1ssss', 'thoeurnseths1ssss', '', NULL) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registrations_function
+[05-Jun-2023 10:18:48 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 709
+[05-Jun-2023 13:50:09 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[05-Jun-2023 13:50:10 Asia/Bangkok] Not enough credit
+[05-Jun-2023 13:50:10 Asia/Bangkok] PHP Notice:  Trying to get property 'message_count' of non-object in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\plusgate_sms\function.php on line 60
+[05-Jun-2023 13:50:10 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 326193.
+)
+
+[05-Jun-2023 13:50:10 Asia/Bangkok] Array
+(
+    [code] => 500
+    [data] => Array
+        (
+            [message] => Somthing unstable, please try again..!
+            [error] => Error with +Gate can't sent OTP  to mobile phone.
+        )
+
+)
+
+[05-Jun-2023 13:50:10 Asia/Bangkok] PHP Notice:  Undefined index: otp in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 142
+[05-Jun-2023 13:50:10 Asia/Bangkok] WordPress database error Column 'otp' cannot be null for query INSERT INTO `ph0m31e_form_register_temporary` (`first_name`, `last_name`, `phone`, `email`, `password`, `confirm_password`, `invite_code`, `otp`) VALUES ('sss', 'sss', '0972013150', 'thoeurnsssseth1sss@gmail.com', 'thoeurnsssseth1sss', 'thoeurnsssseth1sss', '', NULL) made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/metro/page.php'), get_template_part, locate_template, load_template, require('/themes/metro-child/template-parts/content-page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, Woocommerce_Register_Accounts::woocommerce_register_account_shortcode, Woocommerce_Register_Accounts::custom_registrations_function
+[05-Jun-2023 13:50:10 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 709
+[06-Jun-2023 11:21:22 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[06-Jun-2023 11:21:23 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "5a061fcb-d594-4a75-b5f3-a710310f86ca"
+}
+
+[06-Jun-2023 11:21:23 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 702807.
+)
+
+[06-Jun-2023 11:21:23 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 702807
+)
+
+[06-Jun-2023 11:21:23 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 717
+[07-Jun-2023 09:30:43 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Jun-2023 09:30:44 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "5cb456ca-e688-422b-84e8-b2b9469d3288"
+}
+
+[07-Jun-2023 09:30:44 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 598896.
+)
+
+[07-Jun-2023 09:30:44 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 598896
+)
+
+[07-Jun-2023 09:30:44 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 717
+[07-Jun-2023 09:34:14 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Jun-2023 09:34:15 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "a462bcb2-a643-4e68-8730-15f2519c3b8f"
+}
+
+[07-Jun-2023 09:34:15 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 300218.
+)
+
+[07-Jun-2023 09:34:15 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 300218
+)
+
+[07-Jun-2023 09:34:15 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 717
+[07-Jun-2023 09:34:53 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Jun-2023 09:34:54 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "42886a78-1697-4df4-b12f-968550d3f146"
+}
+
+[07-Jun-2023 09:34:54 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 957450.
+)
+
+[07-Jun-2023 09:34:54 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 957450
+)
+
+[07-Jun-2023 09:34:54 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 717
+[07-Jun-2023 09:35:29 Asia/Bangkok] Array
+(
+    [code] => 202
+    [message] => Users allow sending OTP.
+    [error] => 
+)
+
+[07-Jun-2023 09:35:31 Asia/Bangkok] {
+  "message_count": 1, 
+  "queue_id": "01a8432a-2b5c-42ae-b8fb-490530f87e72"
+}
+
+[07-Jun-2023 09:35:31 Asia/Bangkok] Array
+(
+    [sender] => SMS Info
+    [to] => 855972013150
+    [content] => Here is the OTP number: 323246.
+)
+
+[07-Jun-2023 09:35:31 Asia/Bangkok] Array
+(
+    [code] => 200
+    [message] => OTP has been sent to you on your mobile phone.
+    [error] => 
+    [otp] => 323246
+)
+
+[07-Jun-2023 09:35:31 Asia/Bangkok] PHP Notice:  Array to string conversion in E:\projects\phumelectronic\woo-back-end\wp-content\plugins\biz-form-register\app\Autoloader.php on line 717

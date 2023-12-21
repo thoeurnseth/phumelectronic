@@ -1,0 +1,11 @@
+{
+  "name": "Rakesh Dadamatti",
+    "short_name": "Rakesh Dadamatti",
+    "icons": [{
+        "src": "notification-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+  "display": "standalone",
+  "gcm_sender_id": "<SENDER-ID>" //Firebase Project Sender ID ex:204146733640
+}

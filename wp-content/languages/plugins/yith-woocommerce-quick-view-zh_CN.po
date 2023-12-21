@@ -1,0 +1,667 @@
+# Translation of Plugins - YITH WooCommerce Quick View - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Quick View - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-21 21:55:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Quick View - Stable (latest release)\n"
+
+#: plugin-fw/templates/fields/dimensions.php:16
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Left"
+msgstr "左"
+
+#: plugin-fw/templates/fields/dimensions.php:15
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Bottom"
+msgstr "下"
+
+#: plugin-fw/templates/fields/dimensions.php:14
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Right"
+msgstr "右"
+
+#: plugin-fw/templates/fields/dimensions.php:13
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Top"
+msgstr "上"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1347
+msgid ":) Thanks!"
+msgstr ":) 谢谢！"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1346
+msgid "help us by leaving a five-star rating"
+msgstr "留下五星好评价来帮助我们"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1344
+msgid "to keep updating and improving the plugin. Please,"
+msgstr "请不断更新和完善插件。 "
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1343
+msgid "We need your support"
+msgstr "我们需要您的支持"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:29
+msgid "Output IP Address"
+msgstr "输出IP地址"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:20
+msgid "Site URL"
+msgstr "站点网址"
+
+#: plugin-fw/includes/class-yith-system-status.php:120
+msgid "Iconv Module"
+msgstr "Iconv模块"
+
+#: plugin-fw/includes/class-yith-system-status.php:493
+msgid "N/A"
+msgstr "N/A"
+
+#: plugin-fw/includes/class-yith-system-status.php:342
+msgid "Warning!"
+msgstr "警告！"
+
+#: plugin-fw/includes/class-yith-system-status.php:191
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:122
+msgid "URL FOpen"
+msgstr "URL FOpen"
+
+#: plugin-fw/includes/class-yith-system-status.php:121
+msgid "OPCache Save Comments"
+msgstr "OPCache保存评论"
+
+#: plugin-fw/includes/class-yith-system-status.php:119
+msgid "GD Library"
+msgstr "GD库"
+
+#: plugin-fw/includes/class-yith-system-status.php:118
+msgid "ImageMagick Version"
+msgstr "ImageMagick版本"
+
+#: plugin-fw/includes/class-yith-system-status.php:117
+msgid "MultiByte String"
+msgstr "多字节字符串"
+
+#: plugin-fw/includes/class-yith-system-status.php:116
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: plugin-fw/includes/class-yith-system-status.php:115
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+#: plugin-fw/includes/class-yith-system-status.php:114
+msgid "TLS Version"
+msgstr "TLS版本"
+
+#: plugin-fw/includes/class-yith-system-status.php:113
+msgid "PHP Version"
+msgstr "PHP版本"
+
+#: plugin-fw/includes/class-yith-system-status.php:112
+msgid "Available Memory"
+msgstr "有效内存"
+
+#: plugin-fw/includes/class-yith-system-status.php:111
+msgid "WooCommerce Version"
+msgstr "WooCommerce版本"
+
+#: plugin-fw/includes/class-yith-system-status.php:110
+msgid "WordPress Version"
+msgstr "WordPress版本"
+
+#: plugin-fw/includes/class-yith-system-status.php:140
+#: plugin-fw/includes/class-yith-system-status.php:141
+#: plugin-fw/templates/sysinfo/system-information-panel.php:11
+msgid "System Status"
+msgstr "系统状况"
+
+#. translators: 1. user display name; 2. user ID; 3. user email.
+#: plugin-fw/templates/fields/ajax-customers.php:68
+#: plugin-fw/templates/fields/ajax-customers.php:79
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: plugin-fw/templates/fields/ajax-customers.php:41
+msgid "Search Customers"
+msgstr "搜索客户"
+
+#: plugin-fw/includes/class-yith-system-status.php:573
+msgid "Contact your hosting company in order to enable it."
+msgstr "请与您的主机商联系以启用它。"
+
+#: plugin-fw/includes/class-yith-system-status.php:554
+#: plugin-fw/includes/class-yith-system-status.php:560
+msgid "Contact your hosting company in order to update it."
+msgstr "请与您的托管公司联系以进行更新。"
+
+#: plugin-fw/includes/class-yith-system-status.php:550
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "为了使用所有新功能和安全更新，请将其更新到最新版本。"
+
+#. translators: %s recommended memory amount
+#: plugin-fw/includes/class-yith-system-status.php:597
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "为了使我们的插件发挥最佳功能，建议您至少设置%s的可用内存"
+
+#: plugin-fw/includes/class-yith-system-status.php:488
+msgid "Disabled"
+msgstr "已禁用"
+
+#: plugin-fw/includes/class-yith-system-status.php:488
+msgid "Enabled"
+msgstr "已启用"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:22
+msgid "YITH System Information"
+msgstr "YITH系统信息"
+
+#: includes/class.yith-wcqv-admin.php:156
+msgctxt "plugin menu title"
+msgid "Quick View"
+msgstr "快速查看"
+
+#: includes/class.yith-wcqv-admin.php:155
+msgctxt "options page title"
+msgid "YITH WooCommerce Quick View"
+msgstr "YITH WooCommerce Quick View"
+
+#: plugin-fw/templates/fields/select-buttons.php:32
+msgid "Remove All"
+msgstr "删除所有"
+
+#: plugin-fw/templates/fields/select-buttons.php:19
+msgid "Add All"
+msgstr "全部添加"
+
+#: plugin-fw/templates/fields/date-format.php:65
+msgid "Custom:"
+msgstr "自定义："
+
+#: plugin-fw/includes/class-yith-dashboard.php:137
+msgctxt "Button label"
+msgid "Close"
+msgstr "关闭"
+
+#: plugin-fw/includes/class-yith-dashboard.php:97
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "最新更新发布于"
+
+#: plugin-fw/includes/class-yith-dashboard.php:96
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "查看变更日志"
+
+#: plugin-fw/includes/class-yith-dashboard.php:63
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "发生错误，这可能意味着Feed已关闭。 稍后再试。"
+
+#: plugin-fw/includes/class-yith-dashboard.php:56
+msgid "RSS Error:"
+msgstr "RSS错误："
+
+#: plugin-fw/includes/class-yith-dashboard.php:36
+msgid "Latest news from YITH Blog"
+msgstr "YITH博客的最新消息"
+
+#: plugin-fw/includes/class-yith-dashboard.php:35
+msgid "YITH Latest Updates"
+msgstr "YITH最新更新"
+
+#: plugin-fw/includes/class-yith-gutenberg.php:131
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#. Author of the plugin
+msgid "YITH"
+msgstr "YITH"
+
+#. Description of the plugin
+msgid "The <code><strong>YITH WooCommerce Quick View</strong></code> plugin allows your customers to have a quick look about products. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr "<code> <strong>YITH WooCommerce Quick View</strong> </code>插件可让您的客户快速浏览产品。 <a href=\"https://yithemes.com/\" target=\"_blank\">在<strong> YITH </strong> </a>上为您的电子商务商店获取更多插件。"
+
+#: plugin-fw/yit-plugin.php:187
+msgid "License"
+msgstr "许可证"
+
+#: plugin-fw/yit-plugin.php:183
+msgctxt "Action links"
+msgid "Settings"
+msgstr "设置"
+
+#: plugin-fw/yit-plugin.php:87
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "Premium 版"
+
+#: plugin-fw/yit-plugin.php:83
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "支持"
+
+#: plugin-fw/yit-plugin.php:79
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "文档"
+
+#: plugin-fw/yit-plugin.php:75
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "实时演示"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:106
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "支付"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:103
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "我们与他人分享的东西"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:100
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "我们团队中的谁有权访问"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:97
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "我们收集和存储什么"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:93
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "该示例语言包括有关您的商店可能收集，存储和分享哪些个人数据以及谁可以访问该数据的基础知识。 根据启用的设置和使用的其他插件，商店分享的特定信息会有所不同。 在决定要在您的隐私政策上披露哪些信息时，建议您咨询律师。"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:61
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "YITH插件"
+
+#: plugin-fw/templates/fields/icons.php:63
+msgid "Set Default"
+msgstr "默认设置"
+
+#: plugin-fw/templates/fields/ajax-products.php:14
+msgid "Search Product"
+msgstr "搜索产品"
+
+#: plugin-fw/templates/fields/ajax-posts.php:41
+msgid "Search Posts"
+msgstr "搜索文章"
+
+#. Author URI of the plugin
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Plugin URI of the plugin
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-quick-view"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-quick-view"
+
+#: templates/admin/premium.php:427
+msgid "Thanks to the compatibility with %1$sYITH WooCommerce Zoom Magnifier, YITH WooCommerce Badge Management%2$s and %1$sYITH WooCommerce Wishlist%2$s, you will be free to enrich further the content of your quick view.%3$s Zoom the product image, show a badge, or add the button to open the quick view in all products available in your users' wishlists. With YITH's plugins you make the difference."
+msgstr "由于与%1$sYITH WooCommerce Zoom Magnifier, YITH WooCommerce Badge Management%2$s 和 %1$sYITH WooCommerce Wishlist%2$s的兼容性，您可以自由地进一步丰富\"快速查看\"的内容。%3$s缩放产品图像，显示徽章或添加按钮以打开用户心愿单中所有可用产品的快速视图。 借助YITH的插件，您将与众不同。"
+
+#: templates/admin/premium.php:425
+msgid "Compatibility with other YITH's plugins"
+msgstr "与其他YITH插件的兼容性"
+
+#: templates/admin/premium.php:415
+msgid "The shortcode of plugin is a $1$srapid$2$s and $1$seasy$2$s solution: you can add a button in any spot of the page to allow your users to see the quick view of a specific product in your store."
+msgstr "插件的简码是$1$srapid$2$s和 $1$seasy$2$s方案：您可以在页面的任何位置添加按钮，以使用户可以快速查看商店中特定产品的信息。"
+
+#: templates/admin/premium.php:413
+msgid "SHORTCODE"
+msgstr "简码"
+
+#: templates/admin/premium.php:396
+msgid "A rich option panel to change the colors of the %1$s\"Quick View\"%2$s button and of everything that is within the modal window generated."
+msgstr "一个丰富的选项面板，用于更改%1$s\"快速查看\"%2$s按钮以及所生成的模式窗口中所有内容的颜色。"
+
+#: templates/admin/premium.php:384
+msgid "%1$sQuick View is also social-friendly!%2$s Activating this option, you will be able to share the Quick View on Facebook, Twitter, Pinterest, Google+, or sending an email."
+msgstr "%1$sQuick View也是对社交友好的！%2$s激活此选项，您将可以在Facebook，Twitter，Pinterest，Google +上分享Quick View或发送电子邮件。"
+
+#: templates/admin/premium.php:382
+msgid "SHARE"
+msgstr "分享"
+
+#: templates/admin/premium.php:366
+msgid "Each product can have more than one image: choose whether to hide or show them with the %1$sslider%2$s effect or in the classic %1$sWooCommerce%2$s display."
+msgstr "每个产品可以具有多个图像：选择是使用%1$s滑块%2$s效果还是以经典的 %1$sWooCommerce%2$s显示效果隐藏或显示它们。"
+
+#: templates/admin/premium.php:364
+msgid "Type of product images"
+msgstr "产品图片类型"
+
+#: templates/admin/premium.php:354
+msgid "An additional button that allows users to access product detail page directly from quick view window just with a click of the mouse."
+msgstr "这是一个附加按钮，使用户只需单击鼠标即可直接从快速查看窗口访问产品详细信息页面。"
+
+#: templates/admin/premium.php:352
+msgid "\"View details\" button"
+msgstr "\"查看详情\" 按钮"
+
+#: templates/admin/premium.php:338
+msgid "Quick view type"
+msgstr "快速查看类型"
+
+#: templates/admin/premium.php:334
+msgid "Quick view has two different displaying modes: the first one opens it as a %1$smodal window%2$s, the other one opens it in the page itself with a %1$scascading effect%2$s above content page."
+msgstr "快速查看有两种不同的显示模式：第一种显示为 %1$s模态窗口%2$s，另一种在页面本身中以内容页面上方%1$s层叠效果%2$s 的方式打开。"
+
+#: templates/admin/premium.php:332
+msgid "Quick View Type"
+msgstr "快速查看类型"
+
+#: templates/admin/premium.php:322
+msgid "The display of the product information in the \"Quick View\" are managed by %1$sadministrators%2$s who can decide whether to show everything or only a part of it."
+msgstr "产品信息在“快速查看”中的显示由%1$s管理员%2$s管理，他们可以决定显示全部还是部分显示。"
+
+#: templates/admin/premium.php:319 templates/admin/premium.php:320
+msgid "Content to display"
+msgstr "显示内容"
+
+#: templates/admin/premium.php:302
+msgid "The navigation in the \"Quick View\" allows browsing among %1$sproducts%2$s displayed in it. The navigation arrows show on mousehover the image of the next/previous product."
+msgstr "通过“快速查看”中的导航，可以浏览其中显示的%1$s产品%2$s 。 鼠标悬停时，导航箭头显示下一个/上一个产品的图像。"
+
+#: templates/admin/premium.php:299 templates/admin/premium.php:300
+#: templates/admin/premium.php:306
+msgid "Product Navigation"
+msgstr "产品导航"
+
+#: templates/admin/premium.php:289
+msgid "Choose between the button or a custom icon to access the %1$sQuick View%2$s: you can choose to place it after the \"Add To Cart\" button or inside the thumbnail of the product."
+msgstr "在按钮或自定义图标之间进行选择，以访问%1$s快速查看%2$s：您可以选择将其放置在“添加到购物车”按钮之后或产品缩略图中。"
+
+#: templates/admin/premium.php:287
+msgid "BUTTON TYPE"
+msgstr "按钮类型"
+
+#: templates/admin/premium.php:282
+msgid "Button type"
+msgstr "按钮类型"
+
+#: templates/admin/premium.php:278
+msgid "Premium Features"
+msgstr "Premium 功能"
+
+#: templates/admin/premium.php:271 templates/admin/premium.php:443
+msgid "to the premium version"
+msgstr "到 premium版"
+
+#: templates/admin/premium.php:270 templates/admin/premium.php:442
+msgid "UPGRADE"
+msgstr "升级"
+
+#: templates/admin/premium.php:266 templates/admin/premium.php:438
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Quick View%2$s to benefit from all features!"
+msgstr "升级到 %1$sYITH WooCommerce Quick View%2$s的%1$spremium版本%2$s，以享受所有功能！"
+
+#: plugin-options/settings-options.php:71
+msgid "Closing Button Hover Color"
+msgstr "关闭按钮悬停颜色"
+
+#: plugin-options/settings-options.php:62
+msgid "Closing Button Color"
+msgstr "关闭按钮颜色"
+
+#: plugin-options/settings-options.php:53
+msgid "Modal Window Background Color"
+msgstr "模态窗口背景色"
+
+#: plugin-options/settings-options.php:46 templates/admin/premium.php:394
+#: templates/admin/premium.php:400
+msgid "Style Options"
+msgstr "样式选项"
+
+#: plugin-options/settings-options.php:34
+msgid "Label for the quick view button in the WooCommerce loop."
+msgstr "WooCommerce循环中快速查看按钮的标签。"
+
+#: plugin-options/settings-options.php:33
+msgid "Quick View Button Label"
+msgstr "\"快速查看\"按钮标签"
+
+#: plugin-options/settings-options.php:25
+msgid "Enable quick view features on mobile device too"
+msgstr "也在移动设备上启用快速查看功能"
+
+#: plugin-options/settings-options.php:24
+msgid "Enable Quick View on mobile"
+msgstr "在移动端上启用快速查看"
+
+#: plugin-options/settings-options.php:16
+msgid "Enable Quick View"
+msgstr "启用快速查看"
+
+#: plugin-options/settings-options.php:8
+msgid "General Options"
+msgstr "常规选项"
+
+#. Plugin Name of the plugin
+msgid "YITH WooCommerce Quick View"
+msgstr "YITH WooCommerce Quick View"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:34
+msgid "Reset Defaults"
+msgstr "重设默认值"
+
+#: plugin-fw/templates/fields/upload.php:39
+msgid "Reset"
+msgstr "重置"
+
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Right Sidebar"
+msgstr "右侧栏"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:56
+msgid "Choose a sidebar"
+msgstr "选择侧边栏"
+
+#: plugin-fw/templates/fields/sidebars.php:23
+msgid "Right sidebar"
+msgstr "右侧栏"
+
+#: plugin-fw/templates/fields/sidebars.php:26
+#: plugin-fw/templates/fields/sidebars.php:29
+msgid "No sidebar"
+msgstr "没有侧边栏"
+
+#: plugin-fw/templates/fields/sidebars.php:20
+msgid "Left sidebar"
+msgstr "左侧边栏"
+
+#: plugin-fw/templates/fields/image-gallery.php:41
+msgid "Delete"
+msgstr "删除"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "添加图像"
+
+#: plugin-fw/templates/fields/image-gallery.php:38
+msgid "Add to gallery"
+msgstr "加到图库"
+
+#: plugin-fw/templates/fields/image-gallery.php:37
+msgid "Add Images to Gallery"
+msgstr "将图像添加到图库"
+
+#: plugin-fw/templates/fields/image-gallery.php:29
+#: plugin-fw/templates/fields/image-gallery.php:40
+msgid "Delete image"
+msgstr "删除图片"
+
+#: plugin-fw/templates/fields/customtabs.php:93
+msgid "Do you want to remove the custom tab?"
+msgstr "您要删除自定义选项卡吗？"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+msgid "Add custom product tab"
+msgstr "添加自定义产品选项卡"
+
+#: plugin-fw/templates/fields/customtabs.php:41
+#: plugin-fw/templates/fields/customtabs.php:82
+msgid "Content of the tab. (HTML is supported)"
+msgstr "选项卡的内容。 （支持HTML）"
+
+#: plugin-fw/templates/fields/customtabs.php:40
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Value"
+msgstr "值"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Expand all"
+msgstr "展开全部"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Close all"
+msgstr "关闭所有"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:37
+#: plugin-fw/templates/fields/upload.php:34
+msgid "Upload"
+msgstr "上传"
+
+#: plugin-fw/templates/fields/customtabs.php:25
+#: plugin-fw/templates/fields/customtabs.php:68
+msgid "Remove"
+msgstr "删除"
+
+#: plugin-fw/includes/class-yit-pointers.php:96
+msgid "Plugins Upgraded"
+msgstr "插件已升级"
+
+#: plugin-fw/includes/class-yit-pointers.php:80
+msgid "Plugins Activated"
+msgstr "插件已激活"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:875
+msgid "Sorting successful."
+msgstr "排序成功。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:874
+msgid "Sorry, import is disabled."
+msgstr "抱歉，导入已禁用。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:873
+msgid "The added file is not valid."
+msgstr "添加的文件无效。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:872
+msgid "An error has occurred during import. Please try again."
+msgstr "导入期间发生错误。请再试一次。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:871
+msgid "Database imported correctly."
+msgstr "数据库已正确导入。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:869
+#: plugin-fw/includes/class-yit-plugin-panel.php:870
+msgid "Element updated correctly."
+msgstr "元素已正确更新。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:868
+msgid "Element deleted correctly."
+msgstr "元素已正确删除。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:867
+msgid "Settings reset"
+msgstr "设置重置"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:866
+msgid "Settings saved"
+msgstr "设置已保存"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:865
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "您输入的元素已经存在。 请输入其他名称。"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:136
+#: plugin-fw/includes/class-yit-plugin-panel.php:624
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "Are you sure?"
+msgstr "您确定吗？"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:139
+#: plugin-fw/includes/class-yit-plugin-panel.php:628
+msgid "Reset to default"
+msgstr "重置为默认"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:136
+#: plugin-fw/includes/class-yit-plugin-panel.php:624
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "如果继续执行此操作，将重置此页面中的所有选项。"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:132
+#: plugin-fw/includes/class-yit-plugin-panel.php:619
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:28
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:450
+#: plugin-fw/includes/class-yit-plugin-panel.php:453
+msgid "How to install premium version"
+msgstr "如何安装高级版"
+
+#: plugin-fw/includes/class-yith-system-status.php:183
+msgid "YITH Plugins"
+msgstr "YITH插件"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:83
+msgid "Plugin Settings"
+msgstr "插件设置"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:419
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "如果离开此页面，所做的更改将丢失。"
+
+#: plugin-fw/templates/fields/customtabs.php:34
+#: plugin-fw/templates/fields/customtabs.php:76
+msgid "Name"
+msgstr "名称"
+
+#: plugin-fw/templates/fields/ajax-terms.php:41
+msgid "Search Categories"
+msgstr "搜索分类"
+
+#: init.php:53
+msgid "You can't activate the free version of YITH WooCommerce Quick View while you are using the premium one."
+msgstr "使用premium版本时，无法激活免费版本的YITH WooCommerce Quick View。"
+
+#: init.php:45
+msgid "YITH WooCommerce Quick View is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Quick View 已启用但无效。 它需要WooCommerce才能工作。"
+
+#: plugin-options/settings-options.php:37
+msgid "Quick View"
+msgstr "快速查看"
+
+#: includes/class.yith-wcqv-admin.php:149
+msgid "Premium Version"
+msgstr "Premium 版"
+
+#: includes/class.yith-wcqv-admin.php:148
+#: plugin-fw/includes/class-yit-plugin-panel.php:84
+msgid "Settings"
+msgstr "设置"

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Dashboard</title>
+<script src="send-message.js" type="text/javascript"></script>
+<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!--Import materialize.css-->
+<link type="text/css" rel="stylesheet" href="components/css/materialize.min.css" media="screen,projection" />
+<link href="components/css/style.css" rel="stylesheet" type="text/css">
+
+<!--Let browser know website is optimized for mobile-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+<div class="wrapper">
+    <div class="row style">
+        <div class="input-field col s12">
+            <h5>PUSH NOTIFICATION DASHBOARD</h5>
+        </div>
+    </div>
+    <div class="row style">
+        <div class="input-field col s12">
+            <input id="push_ReceiverToken" type="text">
+            <label for="push_ReceiverToken">Token ID</label>
+        </div>
+    </div>
+
+  <div class="row style">
+    <div class="input-field col s12">
+        <input id="push_Title" type="text">
+      <label for="push_Title">Title</label>
+    </div>
+  </div>
+
+  <div class="row style">
+    <div class="input-field col s12">
+      <textarea id="push_Message" class="materialize-textarea"></textarea>
+      <label for="textarea1">Message</label>
+    </div>
+  </div>
+  <div class="form-box">
+    <button class="btn waves-effect waves-light" onclick="sendPushMessage()" type="submit"> Send <i class="material-icons right">send</i> </button>
+  </div>
+</div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script> 
+<script type="text/javascript" src="components/js/materialize.min.js"></script>
+</body>
+</html>

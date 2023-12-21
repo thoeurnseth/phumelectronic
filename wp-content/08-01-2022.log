@@ -1,0 +1,3244 @@
+[28-Jul-2023 00:09:14 Asia/Bangkok] Array
+(
+    [create] => Array
+        (
+            [0] => Array
+                (
+                    [name] => CUTTING DISC 4
+                    [regular_price] => 2.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 1033
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [name] => HYUNDAI PC Board Power Board PCA-0895, ELD
+                    [regular_price] => 211.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 3451
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [name] => LG 1.5HP Ceiling Concealed Duct Middle Static Inverter Indoor Unit SAC
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4069
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [name] => LG 1000W Xboom Speaker AV
+                    [regular_price] => 130.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4110
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [name] => LG 20W Xboom Bluetooth Speaker AV
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4325
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:09:43 Asia/Bangkok] Array
+(
+    [create] => Array
+        (
+            [0] => Array
+                (
+                    [name] => LG 24 LED PERSONAL MNT
+                    [regular_price] => 2.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4343
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [name] => LG 30W Xboom Bluetooth Speaker AV
+                    [regular_price] => 55.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4439
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [name] => LG 32 FHD LTV
+                    [regular_price] => 222.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31016
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4442
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [name] => LG 50 4K UHD Smart LTV
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4672
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [name] => LG Puricare,All Mask
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31019
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 5117
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:10:12 Asia/Bangkok] Array
+(
+    [create] => Array
+        (
+            [0] => Array
+                (
+                    [name] => LG Wireless Bluetooth Headphones - White AV
+                    [regular_price] => 5.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 5193
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [name] => PANA Dry Iron 1000W,1.4Kg
+                    [regular_price] => 22.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31016
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                            [0] => 27439
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 6357
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [name] => PANA Light Blue Hair Dryer 1000W
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31016
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                            [0] => 27439
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 6399
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [name] => Sen Sor Air Con [AC]
+                    [regular_price] => 300.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31016
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 8923
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [name] => UV Case
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31017
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 9889
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:11:13 Asia/Bangkok] Array
+(
+    [create] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 720P TVI Fixed Lens Dome(TVD-2401)
+                    [regular_price] => 888.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 10880
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [name] => Kalibto
+                    [regular_price] => 150.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13049
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [name] => Kalbito 007
+                    [regular_price] => 155.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13051
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 2023-07-05 17:11:45
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [name] => LG umbrella
+                    [regular_price] => 9.99
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31017
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13056
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [name] => Tumblr 360
+                    [regular_price] => 11.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31017
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13057
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:17:10 Asia/Bangkok] Array
+(
+    [create] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 1 get 1 Rice cooker
+                    [regular_price] => 190.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31016
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13302
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 2023-07-08 17:31:18
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [name] => Product Testing1
+                    [regular_price] => 111.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31017
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13454
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [name] => Product Testing2
+                    [regular_price] => 222.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13455
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [name] => Woo-Combo Product Testing
+                    [regular_price] => 333.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31017
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13456
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 2023-07-08 00:00:00
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [name] => Product Testing3
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13536
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:17:39 Asia/Bangkok] Array
+(
+    [create] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Product Testing4
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13537
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [name] => Product Testing5
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13538
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [name] => Product Testing6
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13539
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [name] => Product Testing7
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13540
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [name] => Product Testing8
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13541
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:18:08 Asia/Bangkok] Array
+(
+    [create] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Product Testing9
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13542
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [name] => Product Testing10
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13543
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [name] => Product Testing11
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13544
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [name] => Product Testing12
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13545
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [name] => Product Testing13
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13546
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:18:37 Asia/Bangkok] Array
+(
+    [create] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Product Testing14
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13547
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [name] => Product Testing15
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13548
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [name] => Product Testing16
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13549
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [name] => Product Testing17
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13550
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [name] => Product Testing18
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13551
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:19:06 Asia/Bangkok] Array
+(
+    [create] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Product Testing19
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13552
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [name] => Product Testing20
+                    [regular_price] => 100.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31020
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13553
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [name] => Woo-Combo Product Testing 2
+                    [regular_price] => 200.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31017
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13554
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 2023-07-08 00:00:00
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [name] => Product Testing Promo
+                    [regular_price] => 6.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 31017
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13604
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [name] => Woo-Combo Product Testing (copy)
+                    [regular_price] => 333.0
+                    [sale_price] => 
+                    [type] => variable
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [name] => Options
+                                    [visible] => 1
+                                    [variation] => 1
+                                    [options] => Array
+                                        (
+                                            [0] => Normal
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [categories] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 31015
+                                )
+
+                        )
+
+                    [brands] => Array
+                        (
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13679
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 2023-07-08 00:00:00
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+

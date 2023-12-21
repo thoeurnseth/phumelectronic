@@ -1,0 +1,268 @@
+:root {
+    --biz-color-black: #000000;
+    --biz-color-red:   #E70D2F;
+}
+
+/* Home Slider
+==============*/
+.biz .main-slider {
+    margin-bottom: -5px !important;
+    position: relative;
+}
+
+/* Dots
+=======*/
+.biz .main-slider .slick-dots {
+    position: absolute;
+    bottom: 30px;
+}
+
+.biz .main-slider .slick-dots li button:before {
+    content: '';
+    height: 0;
+    width: 0;
+}
+
+.biz .main-slider .slick-dots li {
+    height: 10px;
+    width: 10px;
+}
+
+.biz .main-slider .slick-dots li button {
+    border-radius: 10px;
+    border: 1px solid var(--biz-color-black);
+    min-height: unset;
+    height: 10px;
+    width: 10px;
+}
+
+.biz .main-slider .slick-dots li.slick-active button {
+    background-color: var(--biz-color-black);
+}
+
+/* Slider Body
+==============*/
+.biz .main-slider .background-image {
+    background-size: contain;
+    height: 600px;
+}
+
+.biz .main-slider .slide-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.biz .main-slider .slide-body h2 {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    max-width: 50%;
+    text-transform: uppercase;
+}
+
+.biz .main-slider .slide-body h1 {
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 40px;
+    max-width: 50%;
+}
+
+.biz .main-slider .slide-body p {
+    font-size: 20px;
+    font-weight: 300;
+    max-width: 40%;
+    margin-bottom: 40px;
+}
+
+.biz .main-slider .slide-body a {
+    font-size: 20px;
+    font-weight: 600;
+    display: block;
+    padding-bottom: 10px;
+    position: relative;
+    text-transform: uppercase;
+    width: fit-content;
+}
+
+.biz .main-slider .slide-body a::before {
+    content: '';
+    background-color: var(--biz-color-black);
+    position: absolute;
+    transition: all .25s;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+        width: 100%;
+    max-width: 40px;
+}
+
+.biz .main-slider .slide-body a:hover {
+    color: var(--biz-color-red);
+}
+
+.biz .main-slider .slide-body a:hover::before {
+    max-width: 100%;
+    background-color: var(--biz-color-red);
+}
+
+@media (min-width: 1440px) and (max-width: 1900px) {
+    .biz .main-slider .background-image {
+        height: 510px;
+    }
+}
+
+/* Desktop
+==========*/
+@media(max-width: 1440px) {
+    .biz .main-slider .slide-body h2 {
+        margin-bottom: 30px;
+        max-width: 40%;
+    }
+
+    .biz .main-slider .slide-body h1 {
+        font-size: 50px;
+        margin-bottom: 20px;
+        max-width: 40%;
+    }
+    .biz .main-slider .background-image {
+        height: 455px;
+    }
+}
+
+/* Laptop | Ipad Pro
+=========*/
+@media(max-width: 1280px) {
+    
+    .biz .main-slider .slick-dots {
+        bottom: 10px;
+    }
+
+    .biz .main-slider .slick-dots li button {
+        height: 8px;
+        width: 8px;
+    }
+
+    .biz .main-slider .background-image {
+        background-size: cover;
+        height: 445px;
+    }
+
+    .biz .main-slider .slide-body h2 {
+        font-size: 20px;
+        margin-bottom: 30px;
+        max-width: 40%;
+    }
+
+    .biz .main-slider .slide-body h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+        max-width: 40%;
+    }
+
+    .biz .main-slider .slide-body p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .biz .main-slider .slide-body a {
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .biz .main-slider .background-image {
+        height: 355px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .biz .main-slider .background-image {
+        height: 265px;
+    }
+}
+
+/* iPad
+=======*/
+@media(max-width: 768px) {
+    .biz .main-slider .slide-body h2 {
+        font-size: 16px;
+        margin-bottom: 10px;
+        max-width: 40%;
+    }
+
+    .biz .main-slider .slide-body h1 {
+        font-size: 30px;
+        max-width: 40%;
+        margin-bottom: 10px;
+    }
+
+    .biz .main-slider .slide-body p {
+        font-size: 14px;
+        line-height: 1.4;
+        max-width: 40%;
+        margin-bottom: 10px;
+    }
+
+    .biz .main-slider .slide-body a {
+        font-size: 14px;
+        padding-bottom: 0px;
+    }
+}
+
+/* Mobile
+=========*/
+@media(max-width: 576px) {
+    .biz .main-slider .background-image {
+        background-size: cover;
+        height: 210px !important;
+        background-position: bottom;
+    }
+
+    .biz .main-slider .slick-dots li button {
+        height: 5px;
+        width: 5px;
+    }
+
+    .biz .main-slider .slide-body h2 {
+        max-width: 50%;
+
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+    }
+
+    .biz .main-slider .slide-body h1 {
+        max-width: 55%;
+
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+    }
+
+    .biz .main-slider .slide-body p {
+        max-width: 60%;
+
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+    }
+}
+/* delete border */
+.biz .main-slider .slide-body a::before{
+    display: none;
+}
+#slick-slide-control00{
+    display: none;
+}

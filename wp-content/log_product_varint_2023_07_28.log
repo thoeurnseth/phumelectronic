@@ -1,0 +1,920 @@
+[28-Jul-2023 00:15:19 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17065
+                    [name] => CUTTING DISC 4"
+                    [sku] => 2608600267
+                    [regular_price] => 2.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 1043
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:15:22 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17066
+                    [name] => HYUNDAI PC Board Power Board PCA-0895, ELD
+                    [sku] => 206100298
+                    [regular_price] => 211.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 3461
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:15:26 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17067
+                    [name] => LG 1.5HP Ceiling Concealed Duct Middle Static Inverter Indoor Unit SAC
+                    [sku] => ARNU15GM1A4
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4079
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:15:30 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17068
+                    [name] => LG 1000W Xboom Speaker AV
+                    [sku] => ON9
+                    [regular_price] => 130.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4120
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:15:34 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17069
+                    [name] => LG 20W Xboom Bluetooth Speaker AV
+                    [sku] => PL5
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4335
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:15:47 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17075
+                    [name] => LG 24" LED PERSONAL MNT
+                    [sku] => 24MT47A-PT
+                    [regular_price] => 2.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4353
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:15:51 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17076
+                    [name] => LG 30W Xboom Bluetooth Speaker AV
+                    [sku] => PL7
+                    [regular_price] => 55.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4449
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:15:54 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17077
+                    [name] => LG 32" FHD LTV
+                    [sku] => 32LM550BPTA
+                    [regular_price] => 222.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4452
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:15:58 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17078
+                    [name] => LG 50" 4K UHD Smart LTV
+                    [sku] => 50UN7300PTC
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 4682
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:02 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17079
+                    [name] => LG Puricare,All Mask
+                    [sku] => AP300AWFA
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 5127
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:14 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17085
+                    [name] => LG Wireless Bluetooth Headphones - White AV
+                    [sku] => HBS-FN6-WH
+                    [regular_price] => 5.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 5203
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:18 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17086
+                    [name] => PANA Dry Iron 1000W,1.4Kg
+                    [sku] => NI-100DXWSG
+                    [regular_price] => 22.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 6367
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:22 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17087
+                    [name] => PANA Light Blue Hair Dryer 1000W
+                    [sku] => EH-ND11-A615
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 6409
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:26 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17088
+                    [name] => Sen Sor Air Con [AC]
+                    [sku] => 13900006
+                    [regular_price] => 300.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 8933
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:30 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17089
+                    [name] => UV Case
+                    [sku] => PWKAUW01
+                    [regular_price] => 1.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 9899
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:42 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17095
+                    [name] => 720P TVI Fixed Lens Dome(TVD-2401)
+                    [sku] => 88898a
+                    [regular_price] => 888.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 10890
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:46 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17096
+                    [name] => Kalibto
+                    [sku] => 0001655
+                    [regular_price] => 150.0
+                    [sale_price] => 450.0
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13051
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:50 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17097
+                    [name] => Kalbito 007
+                    [sku] => 001278
+                    [regular_price] => 155.0
+                    [sale_price] => 90.0
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13053
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 2023-07-05 17:11:45
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:54 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17098
+                    [name] => LG umbrella
+                    [sku] => 8989b
+                    [regular_price] => 9.99
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13058
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[28-Jul-2023 00:16:57 Asia/Bangkok] Array
+(
+    [update] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17099
+                    [name] => Tumblr 360
+                    [sku] => 88898hhh
+                    [regular_price] => 11.0
+                    [sale_price] => 
+                    [manage_stock] => 
+                    [stock_status] => instock
+                    [image] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4
+                                    [option] => Normal
+                                )
+
+                        )
+
+                    [meta_data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => odoo_id
+                                    [value] => 13059
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => cambo_exspire_date
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+

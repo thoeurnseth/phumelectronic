@@ -1,0 +1,239 @@
+:root {
+    --blue-color: #255da3;
+    --yellow-color: #e7cb00;
+    --red-color: #ec1c24;
+    --white-color: #ffff;
+}
+
+.company-profile section:first-child {
+    margin-top: 0;
+}
+
+/* ------------------Growing Together------------------------- */
+
+/* 
+ * Growing-together - Thumnail
+*/
+
+.company-profile .growing-together .growing-thumbnail img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.company-profile .growing-together .main-title {
+    text-align: center;
+}
+
+/* 
+    * Growing-together - Title
+*/
+
+.company-profile .growing-together .title h3 {
+    margin-top: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* 
+    * Growing-together - Description
+*/
+.company-profile .growing-together .description p {
+    text-align: center;
+}
+
+/* ------------------ LG Brand Shop------------------------- */
+
+/* 
+*  Brand-shop - Title
+*/
+
+.company-profile .main-title h1 {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+/* 
+ * Brand-shop - thumbnail
+*/
+
+.company-profile .brand-shop .row .col-sm-6:nth-child(odd) {
+    padding-right: 0;
+}
+
+.company-profile .brand-shop-content .row .col-sm-6:nth-child(even) {
+    padding-left: 0;
+}
+
+.company-profile .brand-shop .row .col-sm-6:nth-child(2n):not(:last-child) {
+    margin-bottom: 50px;
+}
+
+.company-profile .brand-shop-content .brand-shop-thumbnail {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+/* Maps ACF */
+.company-profile .acf-map {
+	width: 100%;
+	height: 400px;
+}
+
+/* fixes potential theme css conflict */
+.company-profile .acf-map img {
+   max-width: inherit !important;
+}
+
+/* 
+ * Brand-shop - Description 
+*/
+.company-profile .brand-shop-content .description {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.company-profile .brand-shop-content .description ul {
+    color: var(--white-color);
+    font-weight: bold;
+    line-height: 1.5;
+    list-style: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    font-size: 22px;
+    text-shadow: 0px 0px 15px rgb(0 0 0 / 80%);
+    margin: 0;
+    padding: 10px
+}
+
+.company-profile .brand-shop-content .description h3 {
+    color: var(--white-color);
+}
+
+/* 
+    -----------------Achievement - Slider--------------------
+*/
+
+.company-profile .slick-slide img {
+    margin: 0 15px;
+}
+
+.company-profile .slick-prev:before, .slick-next:before {
+    color: var(--red-color);
+}
+
+/* ---------- Responsive ------------- */
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .brand-shop .brand-shop-thumbnail img {
+        height: 322px;
+    }
+    .company-profile .acf-map {
+        height: 322px;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1280px) {
+    .company-profile .acf-map {
+        width: 100%;
+        height: 322px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .company-profile .container {
+        max-width: 978px;
+    }
+    .company-profile .brand-shop-content .description h3 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    .company-profile .brand-shop-content .description li {
+        font-size: 16px;
+    }
+    .company-profile .acf-map {
+        width: 100%;
+        height: 237px;
+    }
+    .brand-shop .brand-shop-thumbnail img {
+        height: 237px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .brand-shop .brand-shop-thumbnail img {
+        height: 172px;
+    }
+    .company-profile .brand-shop-content .description ul {
+        padding: 0 !important;
+    }
+    .company-profile .brand-shop-content .description h3 {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .company-profile .brand-shop-content .description li {
+        font-size: 14px;
+    }
+    /* Maps ACF */
+    .company-profile .acf-map {
+        width: 100%;
+        height: 172px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    /* Archivement Slider */
+    .company-profile .archivement-slider .slick-prev {
+        left: -10px;
+        z-index: 1;
+    }
+    .company-profile .archivement-slider .slick-next {
+        right: -10px;
+        z-index: 1;
+    }
+
+    /* LG Brand Shop */
+    .company-profile .brand-shop .row .col-sm-6:nth-child(odd) {
+        padding-right: 15px;
+    }
+    
+    .company-profile .brand-shop-content .row .col-sm-6:nth-child(even) {
+        padding-left: 15px;
+    }
+
+    .company-profile .brand-shop-content .description {
+        bottom: 5px;
+        left: 5px;
+    }
+
+    .company-profile .brand-shop-content .description ul {
+        padding: 10px;
+    }
+
+    .company-profile .brand-shop-content .description h3 {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .company-profile .brand-shop-content .description li {
+        font-size: 12px;
+    }
+}
+
+@media ( max-width: 768px ){
+
+    /* About US  - Fixed style on device text size large */
+    .company-profile .brand-shop-content .description {
+        position: static;
+    }
+    .company-profile .brand-shop-content .description h3 {
+        color: #333;
+    }
+    .company-profile .brand-shop-content .description li {
+        color: #333;
+        text-shadow: none;
+        padding: 5px 0;
+    }
+    /* End About US */
+}

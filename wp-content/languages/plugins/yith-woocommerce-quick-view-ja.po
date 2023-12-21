@@ -1,0 +1,332 @@
+# Translation of Plugins - YITH WooCommerce Quick View - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Quick View - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-21 01:53:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Quick View - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Plugin URI of the plugin
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-quick-view"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-quick-view"
+
+#: templates/admin/premium.php:425
+msgid "Compatibility with other YITH's plugins"
+msgstr "その他の YITH プラグインとの互換性"
+
+#: templates/admin/premium.php:413
+msgid "SHORTCODE"
+msgstr "ショートコード"
+
+#: templates/admin/premium.php:382
+msgid "SHARE"
+msgstr "シェアする"
+
+#: templates/admin/premium.php:364
+msgid "Type of product images"
+msgstr "商品画像の種類"
+
+#: templates/admin/premium.php:352
+msgid "\"View details\" button"
+msgstr "\"詳細を表示\" ボタン"
+
+#: templates/admin/premium.php:338
+msgid "Quick view type"
+msgstr "クイックビューのタイプ"
+
+#: templates/admin/premium.php:332
+msgid "Quick View Type"
+msgstr "クイックビューのタイプ"
+
+#: templates/admin/premium.php:319 templates/admin/premium.php:320
+msgid "Content to display"
+msgstr "表示するコンテンツ"
+
+#: templates/admin/premium.php:299 templates/admin/premium.php:300
+#: templates/admin/premium.php:306
+msgid "Product Navigation"
+msgstr "商品ナビゲーション"
+
+#: templates/admin/premium.php:287
+msgid "BUTTON TYPE"
+msgstr "ボタンの種類"
+
+#: templates/admin/premium.php:282
+msgid "Button type"
+msgstr "ボタンの種類"
+
+#: templates/admin/premium.php:278
+msgid "Premium Features"
+msgstr "プレミアム機能"
+
+#: templates/admin/premium.php:271 templates/admin/premium.php:443
+msgid "to the premium version"
+msgstr "プレミアム版へ"
+
+#: templates/admin/premium.php:270 templates/admin/premium.php:442
+msgid "UPGRADE"
+msgstr "アップグレード"
+
+#: templates/admin/premium.php:266 templates/admin/premium.php:438
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Quick View%2$s to benefit from all features!"
+msgstr "%1$sプレミアム版%2$sの %1$sYITH WooCommerce Quick View%2$s にアップグレードして、すべての機能を活用しましょう。"
+
+#: plugin-options/settings-options.php:71
+msgid "Closing Button Hover Color"
+msgstr "閉じるボタンのホバー色"
+
+#: plugin-options/settings-options.php:62
+msgid "Closing Button Color"
+msgstr "閉じるボタンの色"
+
+#: plugin-options/settings-options.php:53
+msgid "Modal Window Background Color"
+msgstr "モーダルウィンドウの背景色"
+
+#: plugin-options/settings-options.php:46 templates/admin/premium.php:394
+#: templates/admin/premium.php:400
+msgid "Style Options"
+msgstr "スタイル設定"
+
+#: plugin-options/settings-options.php:34
+msgid "Label for the quick view button in the WooCommerce loop."
+msgstr "WooCommerce ループのクイックビューボタンのラベル。"
+
+#: plugin-options/settings-options.php:33
+msgid "Quick View Button Label"
+msgstr "クイックビュー・ボタンのラベル"
+
+#: plugin-options/settings-options.php:25
+msgid "Enable quick view features on mobile device too"
+msgstr "モバイルデバイスでもクイックビュー機能を有効にする"
+
+#: plugin-options/settings-options.php:24
+msgid "Enable Quick View on mobile"
+msgstr "モバイルでクイックビューを有効にする"
+
+#: plugin-options/settings-options.php:16
+msgid "Enable Quick View"
+msgstr "クイックビューを有効にする"
+
+#: plugin-options/settings-options.php:8
+msgid "General Options"
+msgstr "全般設定"
+
+#. Plugin Name of the plugin
+msgid "YITH WooCommerce Quick View"
+msgstr "YITH WooCommerce Quick View"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:34
+msgid "Reset Defaults"
+msgstr "デフォルトに戻す"
+
+#: plugin-fw/templates/fields/upload.php:39
+msgid "Reset"
+msgstr "リセット"
+
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:56
+msgid "Choose a sidebar"
+msgstr "サイドバーを選択"
+
+#: plugin-fw/templates/fields/sidebars.php:23
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: plugin-fw/templates/fields/sidebars.php:26
+#: plugin-fw/templates/fields/sidebars.php:29
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: plugin-fw/templates/fields/sidebars.php:20
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: plugin-fw/templates/fields/image-gallery.php:41
+msgid "Delete"
+msgstr "削除"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "画像を追加"
+
+#: plugin-fw/templates/fields/image-gallery.php:38
+msgid "Add to gallery"
+msgstr "ギャラリーに追加"
+
+#: plugin-fw/templates/fields/image-gallery.php:37
+msgid "Add Images to Gallery"
+msgstr "ギャラリーに画像を追加"
+
+#: plugin-fw/templates/fields/image-gallery.php:29
+#: plugin-fw/templates/fields/image-gallery.php:40
+msgid "Delete image"
+msgstr "画像を削除"
+
+#: plugin-fw/templates/fields/customtabs.php:93
+msgid "Do you want to remove the custom tab?"
+msgstr "カスタムタブを削除しますか ?"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+msgid "Add custom product tab"
+msgstr "カスタム商品タブを追加"
+
+#: plugin-fw/templates/fields/customtabs.php:41
+#: plugin-fw/templates/fields/customtabs.php:82
+msgid "Content of the tab. (HTML is supported)"
+msgstr "タブのコンテンツ (HTML 利用可能) 。"
+
+#: plugin-fw/templates/fields/customtabs.php:40
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Value"
+msgstr "値"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Expand all"
+msgstr "すべて展開"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Close all"
+msgstr "すべて閉じる"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:37
+#: plugin-fw/templates/fields/upload.php:34
+msgid "Upload"
+msgstr "アップロード"
+
+#: plugin-fw/templates/fields/customtabs.php:25
+#: plugin-fw/templates/fields/customtabs.php:68
+msgid "Remove"
+msgstr "削除"
+
+#: plugin-fw/includes/class-yit-pointers.php:96
+msgid "Plugins Upgraded"
+msgstr "プラグインを更新しました"
+
+#: plugin-fw/includes/class-yit-pointers.php:80
+msgid "Plugins Activated"
+msgstr "プラグイン有効化済み"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:875
+msgid "Sorting successful."
+msgstr "並べ替え完了。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:874
+msgid "Sorry, import is disabled."
+msgstr "インポート機能は停止中です。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:873
+msgid "The added file is not valid."
+msgstr "追加されたファイルは有効ではありません。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:872
+msgid "An error has occurred during import. Please try again."
+msgstr "インポート中にエラーが発生しました。もう一度お試しください。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:871
+msgid "Database imported correctly."
+msgstr "データベースのインポートを完了しました。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:869
+#: plugin-fw/includes/class-yit-plugin-panel.php:870
+msgid "Element updated correctly."
+msgstr "要素を更新しました。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:868
+msgid "Element deleted correctly."
+msgstr "要素を削除しました。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:867
+msgid "Settings reset"
+msgstr "設定をリセット"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:866
+msgid "Settings saved"
+msgstr "設定を保存"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:865
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "入力した要素がすでに存在しています。他の名前を入力してください。"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:136
+#: plugin-fw/includes/class-yit-plugin-panel.php:624
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "Are you sure?"
+msgstr "本当に実行しますか ?"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:139
+#: plugin-fw/includes/class-yit-plugin-panel.php:628
+msgid "Reset to default"
+msgstr "デフォルトに戻す"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:136
+#: plugin-fw/includes/class-yit-plugin-panel.php:624
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "操作を続行すると、このページのオプションがすべてリセットされます。"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:132
+#: plugin-fw/includes/class-yit-plugin-panel.php:619
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:28
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:450
+#: plugin-fw/includes/class-yit-plugin-panel.php:453
+msgid "How to install premium version"
+msgstr "プレミアム版のインストール方法"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:83
+msgid "Plugin Settings"
+msgstr "プラグイン設定"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:419
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "このページから離れると変更内容は失われます。"
+
+#: plugin-fw/templates/fields/customtabs.php:34
+#: plugin-fw/templates/fields/customtabs.php:76
+msgid "Name"
+msgstr "名前"
+
+#: plugin-fw/templates/fields/ajax-terms.php:41
+msgid "Search Categories"
+msgstr "カテゴリーを検索"
+
+#: init.php:53
+msgid "You can't activate the free version of YITH WooCommerce Quick View while you are using the premium one."
+msgstr "プレミアム版を使用している間は、YITH WooCommerce Quick View の無料版を有効にすることはできません。"
+
+#: init.php:45
+msgid "YITH WooCommerce Quick View is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Quick View は有効ですが効果はありません。それは動作するためには WooCommerce が必要です。"
+
+#: plugin-options/settings-options.php:37
+msgid "Quick View"
+msgstr "クイック表示"
+
+#: includes/class.yith-wcqv-admin.php:149
+msgid "Premium Version"
+msgstr "プレミアムバージョン"
+
+#: includes/class.yith-wcqv-admin.php:148
+#: plugin-fw/includes/class-yit-plugin-panel.php:84
+msgid "Settings"
+msgstr "設定"

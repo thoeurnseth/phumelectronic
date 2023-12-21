@@ -1,0 +1,75 @@
+.otp-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+.otp-title, .otp-sumrize, .otp-input, .otp-sumrize-1{
+    flex: 1;
+    color: black;
+}
+.otp-resend{
+    flex: 1;
+    font-size: 15px;
+    margin-top: 20px;
+    color:#c2c2c2;
+}
+.banner .banner-content h1{
+    font-weight: 550;
+}
+h1, h2{
+    font-family:Tahoma;
+}
+.otp-sumrize label{
+   color: #e60e2f;
+   font-weight: bold;
+}
+.otp-wrapper {
+    text-align: center;
+    margin-top: 20px;
+}
+.otp-container {
+    display: inline-block;
+}
+.otp-container .otp-number-input {
+    width: 55px;
+    height: 45px;
+    margin: 0 5px;
+    border:none;
+    border-bottom: 2px solid rgba(0, 0, 0, .2);
+    padding: 20px;
+    color: rgba(0, 0, 0, .7);
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    font-size: 20px;
+    box-shadow: none;
+    text-align: center;
+    background-color: none;
+    font-weight: 600;
+    border-radius: 5px;
+    outline: 0;
+    transition: border 0.3s ease;
+    background-color: #f3f1f2;
+}
+.otp-container .otp-number-input:focus {
+    border-color: rgba(0, 0, 0, .5);
+}
+.otp-container .otp-number-input.otp-filled-active {
+    border-color:  #e60e2f;
+}
+.otp-submit {
+    background:  #e60e2f;
+    border: 0;
+    color: #fff;
+    margin-top: 30px;
+    padding: 10px 15px;
+    font-size: 14px;
+    border-radius: 3px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.otp-submit[disabled] {
+    opacity: 0.6;
+    cursor: default;
+}

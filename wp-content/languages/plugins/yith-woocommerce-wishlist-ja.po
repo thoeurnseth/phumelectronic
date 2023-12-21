@@ -1,0 +1,791 @@
+# Translation of Plugins - YITH WooCommerce Wishlist - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Wishlist - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-04 23:28:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Wishlist - Development (trunk)\n"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1441
+msgid ":) Thanks!"
+msgstr "ありがとうございます !"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1437
+msgid "We need your support"
+msgstr "皆さんのサポートが必要です"
+
+#: includes/class.yith-wcwl-ajax-handler.php:71
+#: templates/add-to-wishlist-remove.php:51
+msgid "View &rsaquo;"
+msgstr "表示 &rsaquo;"
+
+#: templates/wishlist-view-mobile.php:147
+msgid "Price:"
+msgstr "価格:"
+
+#: templates/wishlist-view-mobile.php:174
+msgid "Quantity:"
+msgstr "数量:"
+
+#: templates/wishlist-view-mobile.php:189
+msgid "Stock:"
+msgstr "在庫:"
+
+#: includes/class.yith-wcwl-ajax-handler.php:72
+#: templates/add-to-wishlist-remove.php:50
+msgid "or"
+msgstr "または"
+
+#: templates/wishlist-view-footer-mobile.php:72
+#: templates/wishlist-view-footer.php:77
+msgid "Update"
+msgstr "更新"
+
+#: templates/wishlist-view-footer-mobile.php:64
+#: templates/wishlist-view-footer.php:69
+msgid "Apply"
+msgstr "適用"
+
+#: templates/admin/wishlist-panel-premium.php:170
+#: templates/admin/wishlist-panel-premium.php:311
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: templates/wishlist-view.php:96
+msgid "Quantity"
+msgstr "数量"
+
+#: plugin-options/wishlist_page-options.php:486
+msgid "Highlight color"
+msgstr "ハイライト色"
+
+#: includes/class.yith-wcwl-admin.php:148
+msgid "General settings"
+msgstr "一般設定"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:29
+msgid "Output IP Address"
+msgstr "出力 IP アドレス"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:20
+msgid "Site URL"
+msgstr "サイト URL"
+
+#: plugin-fw/includes/class-yith-system-status.php:493
+msgid "N/A"
+msgstr "該当なし"
+
+#: templates/share.php:87
+msgid "copy"
+msgstr "コピー"
+
+#: plugin-fw/includes/class-yith-system-status.php:120
+msgid "Iconv Module"
+msgstr "Iconv モジュール"
+
+#. translators: 1. user display name; 2. user ID; 3. user email.
+#: plugin-fw/templates/fields/ajax-customers.php:68
+#: plugin-fw/templates/fields/ajax-customers.php:79
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s – %3$s)"
+
+#: plugin-fw/templates/fields/ajax-customers.php:41
+msgid "Search Customers"
+msgstr "お客様の検索"
+
+#: plugin-fw/includes/class-yith-system-status.php:488
+msgid "Disabled"
+msgstr "無効"
+
+#: plugin-fw/includes/class-yith-system-status.php:191
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:342
+msgid "Warning!"
+msgstr "警告 !"
+
+#: plugin-fw/includes/class-yith-system-status.php:488
+msgid "Enabled"
+msgstr "有効"
+
+#: plugin-fw/includes/class-yith-system-status.php:122
+msgid "URL FOpen"
+msgstr "URL FOpen"
+
+#: plugin-fw/includes/class-yith-system-status.php:121
+msgid "OPCache Save Comments"
+msgstr "OPCache Save Comments"
+
+#: plugin-fw/includes/class-yith-system-status.php:119
+msgid "GD Library"
+msgstr "GD ライブラリ"
+
+#: plugin-fw/includes/class-yith-system-status.php:118
+msgid "ImageMagick Version"
+msgstr "ImageMagick バージョン"
+
+#: plugin-fw/includes/class-yith-system-status.php:117
+msgid "MultiByte String"
+msgstr "マルチバイト文字列"
+
+#: plugin-fw/includes/class-yith-system-status.php:116
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: plugin-fw/includes/class-yith-system-status.php:115
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+#: plugin-fw/includes/class-yith-system-status.php:114
+msgid "TLS Version"
+msgstr "TLS バージョン"
+
+#: plugin-fw/includes/class-yith-system-status.php:113
+msgid "PHP Version"
+msgstr "PHP バージョン"
+
+#: plugin-fw/includes/class-yith-system-status.php:112
+msgid "Available Memory"
+msgstr "利用可能メモリ"
+
+#: plugin-fw/includes/class-yith-system-status.php:111
+msgid "WooCommerce Version"
+msgstr "WooCommerce バージョン"
+
+#: plugin-fw/includes/class-yith-system-status.php:110
+msgid "WordPress Version"
+msgstr "WordPress バージョン"
+
+#: plugin-fw/includes/class-yith-system-status.php:140
+#: plugin-fw/includes/class-yith-system-status.php:141
+#: plugin-fw/templates/sysinfo/system-information-panel.php:11
+msgid "System Status"
+msgstr "システム状況"
+
+#: plugin-fw/includes/class-yith-system-status.php:573
+msgid "Contact your hosting company in order to enable it."
+msgstr "有効化するにはホスティング会社に連絡してください。"
+
+#: plugin-fw/includes/class-yith-system-status.php:554
+#: plugin-fw/includes/class-yith-system-status.php:560
+msgid "Contact your hosting company in order to update it."
+msgstr "更新するにはホスティング会社に問い合わせてください。"
+
+#: plugin-fw/includes/class-yith-system-status.php:550
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "すべての新機能とセキュリティ更新プログラムを利用するには最新バージョンに更新してください。"
+
+#. translators: %s recommended memory amount
+#: plugin-fw/includes/class-yith-system-status.php:597
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "プラグインの最適な動作のため、使用可能なメモリの少なくとも%sを設定することをおすすめします"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:22
+msgid "YITH System Information"
+msgstr "YITH システム情報"
+
+#: plugin-fw/templates/fields/date-format.php:65
+msgid "Custom:"
+msgstr "カスタム:"
+
+#: plugin-fw/templates/fields/select-buttons.php:32
+msgid "Remove All"
+msgstr "すべて削除"
+
+#: plugin-fw/templates/fields/select-buttons.php:19
+msgid "Add All"
+msgstr "すべて追加"
+
+#: plugin-fw/includes/class-yith-dashboard.php:56
+msgid "RSS Error:"
+msgstr "RSS エラー:"
+
+#: plugin-fw/includes/class-yith-dashboard.php:63
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "エラーが発生しました。ご指定のフィードは現在利用できないようです。後ほどもう一度お試しください。"
+
+#: plugin-fw/includes/class-yith-dashboard.php:137
+msgctxt "Button label"
+msgid "Close"
+msgstr "閉じる"
+
+#: plugin-fw/includes/class-yith-dashboard.php:97
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "最新アップデートリリース:"
+
+#: plugin-fw/includes/class-yith-dashboard.php:96
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "変更履歴を表示"
+
+#: plugin-fw/includes/class-yith-dashboard.php:36
+msgid "Latest news from YITH Blog"
+msgstr "YITH ブログからの最新ニュース"
+
+#: plugin-fw/includes/class-yith-dashboard.php:35
+msgid "YITH Latest Updates"
+msgstr "YITH 最新ニュース"
+
+#: plugin-fw/includes/builders/gutenberg/class-yith-gutenberg.php:147
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#: plugin-fw/yit-plugin.php:204
+msgid "License"
+msgstr "ライセンス"
+
+#. Author of the plugin
+msgid "YITH"
+msgstr "YITH"
+
+#: plugin-fw/yit-plugin.php:200
+msgctxt "Action links"
+msgid "Settings"
+msgstr "設定"
+
+#: plugin-fw/yit-plugin.php:97
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "プレミアムバージョン"
+
+#: plugin-fw/yit-plugin.php:93
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "サポート"
+
+#: plugin-fw/yit-plugin.php:89
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: plugin-fw/yit-plugin.php:85
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "ライブデモ"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:106
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "支払い"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:103
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "外部と共有する内容"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:100
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "当チーム内でアクセスできるメンバー"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:97
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "収集し保存する内容"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:93
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "このサンプル言語には、ストアが収集、保存、共有できる個人データ、およびそのデータにアクセスできるユーザーに関する基本が含まれています。有効済み設定と使用する追加のプラグインに応じて、ストアで共有される特定の情報は異なります。プライバシーポリシーに関する開示情報を決定する際には、弁護士に相談することをお勧めします。"
+
+#: includes/class.yith-wcwl-privacy.php:227
+msgid "Title"
+msgstr "タイトル"
+
+#: includes/class.yith-wcwl-privacy.php:229
+msgid "Visibility"
+msgstr "表示状態"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:61
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "YITH プラグイン"
+
+#: plugin-fw/templates/fields/ajax-posts.php:41
+msgid "Search Posts"
+msgstr "投稿を検索"
+
+#: plugin-fw/templates/fields/icons.php:63
+msgid "Set Default"
+msgstr "初期設定を指定"
+
+#: plugin-fw/templates/fields/ajax-products.php:14
+msgid "Search Product"
+msgstr "商品を検索"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:451
+#: plugin-fw/includes/class-yit-plugin-panel.php:454
+msgid "How to install premium version"
+msgstr "プレミアム版のインストール方法"
+
+#: plugin-fw/templates/fields/upload.php:39
+msgid "Reset"
+msgstr "リセット"
+
+#: templates/admin/wishlist-panel-premium.php:168
+#: templates/admin/wishlist-panel-premium.php:309
+msgid "Upgrade to the %1$spremium version%2$s%3$sof %1$sYITH WooCommerce Wishlist%2$s to benefit from all features!"
+msgstr "すべての機能を利用するために%1$sYITH WooCommerce ウィッシュリスト%2$sの%1$sプレミアムバージョン%2$s%3$sにアップグレードする。"
+
+#: templates/admin/wishlist-panel-premium.php:176
+msgid "Premium Features"
+msgstr "プレミアム機能"
+
+#: templates/admin/wishlist-panel-premium.php:185
+msgid "Multiple Wishlist"
+msgstr "複数のお気に入り一覧"
+
+#: templates/admin/wishlist-panel-premium.php:192
+msgid "Wishlist Private"
+msgstr "お気に入り一覧の非公開"
+
+#: templates/admin/wishlist-panel-premium.php:211
+msgid "Estimate Cost"
+msgstr "費用見積もり機能"
+
+#: templates/admin/wishlist-panel-premium.php:218
+msgid "Admin Panel"
+msgstr "管理画面"
+
+#: templates/admin/wishlist-panel-premium.php:263
+msgid "DISABLE WISHLIST"
+msgstr "ウィッシュリストを無効にする"
+
+#: templates/admin/wishlist-panel-premium.php:296
+msgid "FUNCTIONALITIES"
+msgstr "機能"
+
+#: templates/admin/wishlist-panel-premium.php:289
+msgid "POPULAR TABLE"
+msgstr "人気のテーブル"
+
+#: templates/admin/wishlist-panel-premium.php:276
+msgid "UNLOGGED USERS"
+msgstr "ログインしていないユーザー"
+
+#: templates/admin/wishlist-panel-premium.php:244
+msgid "'ADD TO CART'"
+msgstr "'カートに追加'"
+
+#: templates/admin/wishlist-panel-premium.php:237
+msgid "Search Wishlists"
+msgstr "お気に入りの検索"
+
+#: includes/class.yith-wcwl-wishlist-item.php:189
+msgid "Free!"
+msgstr "無料！"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:132
+#: plugin-fw/includes/class-yit-plugin-panel.php:652
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: plugin-fw/templates/fields/image-gallery.php:41
+msgid "Delete"
+msgstr "削除"
+
+#: plugin-fw/templates/fields/upload.php:34
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:37
+msgid "Upload"
+msgstr "アップロード"
+
+#: plugin-fw/templates/fields/customtabs.php:40
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Value"
+msgstr "値"
+
+#: includes/functions.yith-wcwl.php:423
+msgid "None"
+msgstr "なし"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:136
+#: plugin-fw/includes/class-yit-plugin-panel.php:657
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "Are you sure?"
+msgstr "本当に実行しますか ?"
+
+#: templates/share.php:69 templates/share.php:70
+msgid "Email"
+msgstr "メール"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:967
+msgid "The added file is not valid."
+msgstr "追加されたファイルは有効ではありません。"
+
+#: templates/wishlist-view.php:290 plugin-fw/templates/fields/customtabs.php:25
+#: plugin-fw/templates/fields/customtabs.php:68
+msgid "Remove"
+msgstr "削除"
+
+#: templates/wishlist-view.php:227 templates/wishlist-view-mobile.php:192
+msgid "In Stock"
+msgstr "在庫あり"
+
+#: templates/wishlist-view.php:227 templates/wishlist-view-mobile.php:192
+msgid "Out of stock"
+msgstr "在庫なし"
+
+#: templates/wishlist-view.php:87
+msgid "Unit price"
+msgstr "商品単価"
+
+#: templates/wishlist-view.php:105
+msgid "Stock status"
+msgstr "在庫状況"
+
+#: templates/wishlist-view.php:156 templates/wishlist-view.php:290
+#: templates/wishlist-view-mobile.php:240
+msgid "Remove this product"
+msgstr "この商品を削除"
+
+#: templates/wishlist-view-header.php:42
+msgid "Edit title"
+msgstr "タイトル編集"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:38
+msgid "Reset Defaults"
+msgstr "デフォルトに戻す"
+
+#: templates/wishlist-view.php:260 templates/wishlist-view-mobile.php:211
+msgid "Move"
+msgstr "移動"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:960
+msgid "Settings saved"
+msgstr "設定を保存"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:961
+msgid "Settings reset"
+msgstr "設定をリセット"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:83
+msgid "Plugin Settings"
+msgstr "プラグイン設定"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:139
+#: plugin-fw/includes/class-yit-plugin-panel.php:661
+msgid "Reset to default"
+msgstr "デフォルトに戻す"
+
+#: templates/wishlist-view.php:79
+msgid "Product name"
+msgstr "商品名"
+
+#: includes/functions.yith-wcwl.php:445
+msgid "Shared"
+msgstr "シェア"
+
+#: includes/functions.yith-wcwl.php:465
+msgid "Public"
+msgstr "公開"
+
+#: includes/functions.yith-wcwl.php:455
+msgid "Private"
+msgstr "非公開"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:56
+msgid "Choose a sidebar"
+msgstr "サイドバーを選択"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:962
+msgid "Element deleted correctly."
+msgstr "要素を削除しました。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:963
+#: plugin-fw/includes/class-yit-plugin-panel.php:964
+msgid "Element updated correctly."
+msgstr "要素を更新しました。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:965
+msgid "Database imported correctly."
+msgstr "データベースのインポートを完了しました。"
+
+#: plugin-fw/includes/class-yit-pointers.php:80
+msgid "Plugins Activated"
+msgstr "プラグイン有効化済み"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Close all"
+msgstr "すべて閉じる"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Expand all"
+msgstr "すべて展開"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+msgid "Add custom product tab"
+msgstr "カスタム商品タブを追加"
+
+#: plugin-fw/templates/fields/customtabs.php:93
+msgid "Do you want to remove the custom tab?"
+msgstr "カスタムタブを削除しますか ?"
+
+#: plugin-fw/templates/fields/image-gallery.php:37
+msgid "Add Images to Gallery"
+msgstr "ギャラリーに画像を追加"
+
+#: plugin-fw/templates/fields/image-gallery.php:38
+msgid "Add to gallery"
+msgstr "ギャラリーに追加"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "画像を追加"
+
+#: plugin-fw/templates/fields/image-gallery.php:29
+#: plugin-fw/templates/fields/image-gallery.php:40
+msgid "Delete image"
+msgstr "画像を削除"
+
+#: plugin-fw/templates/fields/sidebars.php:20
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: plugin-fw/templates/fields/customtabs.php:41
+#: plugin-fw/templates/fields/customtabs.php:82
+msgid "Content of the tab. (HTML is supported)"
+msgstr "タブのコンテンツ (HTML 利用可能) 。"
+
+#: plugin-fw/templates/fields/sidebars.php:26
+#: plugin-fw/templates/fields/sidebars.php:29
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: plugin-fw/templates/fields/sidebars.php:23
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: plugin-fw/includes/class-yith-system-status.php:183
+msgid "YITH Plugins"
+msgstr "YITH プラグイン"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:966
+msgid "An error has occurred during import. Please try again."
+msgstr "インポート中にエラーが発生しました。もう一度お試しください。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:959
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "入力した要素がすでに存在しています。他の名前を入力してください。"
+
+#: templates/share.php:61 templates/share.php:62
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: plugin-fw/includes/class-yit-pointers.php:96
+msgid "Plugins Upgraded"
+msgstr "プラグインを更新しました"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:969
+msgid "Sorting successful."
+msgstr "並べ替え完了。"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:968
+msgid "Sorry, import is disabled."
+msgstr "インポート機能は停止中です。"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:136
+#: plugin-fw/includes/class-yit-plugin-panel.php:657
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "操作を続行すると、このページのオプションがすべてリセットされます。"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:423
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "このページから離れると変更内容は失われます。"
+
+#: plugin-fw/templates/fields/customtabs.php:34
+#: plugin-fw/templates/fields/customtabs.php:76
+msgid "Name"
+msgstr "名前"
+
+#. Author URI of the plugin
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Plugin URI of the plugin
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:84
+msgid "Settings"
+msgstr "設定"
+
+#: templates/share.php:53 templates/share.php:54
+msgid "Twitter"
+msgstr "Twitter"
+
+#: plugin-options/add_to_wishlist-options.php:195
+#: plugin-options/wishlist_page-options.php:283
+#: plugin-options/wishlist_page-options.php:372
+#: plugin-options/wishlist_page-options.php:421
+#: plugin-options/wishlist_page-options.php:469
+#: plugin-options/wishlist_page-options.php:506
+msgid "Text"
+msgstr "テキスト"
+
+#: plugin-options/add_to_wishlist-options.php:140
+msgid "\"Browse wishlist\" text"
+msgstr "\"お気に入り一覧を表示\"テキスト"
+
+#: plugin-options/wishlist_page-options.php:194
+msgid "My wishlist on %s"
+msgstr "%sのお気に入り商品一覧"
+
+#: plugin-options/add_to_wishlist-options.php:20
+#: plugin-options/settings-options.php:25
+msgid "General Settings"
+msgstr "一般設定"
+
+#: plugin-options/add_to_wishlist-options.php:135
+msgid "Product added!"
+msgstr "お気に入り商品に追加しました！"
+
+#: plugin-options/add_to_wishlist-options.php:105
+msgid "After thumbnails"
+msgstr "サムネイルの後"
+
+#: plugin-options/add_to_wishlist-options.php:106
+msgid "After summary"
+msgstr "要約の後"
+
+#: plugin-options/add_to_wishlist-options.php:75
+#: plugin-options/add_to_wishlist-options.php:107
+msgid "Use shortcode"
+msgstr "ショートコードを使う"
+
+#: plugin-options/wishlist_page-options.php:110
+msgid "Redirect to cart"
+msgstr "カートに戻る"
+
+#: plugin-options/wishlist_page-options.php:119
+msgid "Remove if added to the cart"
+msgstr "カートに追加された場合は削除します"
+
+#: includes/class.yith-wcwl-ajax-handler.php:143
+#: includes/class.yith-wcwl-ajax-handler.php:179
+msgid "Product successfully removed."
+msgstr "商品の削除に成功しました。"
+
+#: includes/class.yith-wcwl.php:235 includes/class.yith-wcwl.php:241
+msgid "Error. Unable to remove the product from the wishlist."
+msgstr "エラー。お気に入り一覧から商品が削除できません。"
+
+#: includes/class.yith-wcwl-admin.php:151
+msgid "Premium Version"
+msgstr "プレミアムバージョン"
+
+#: includes/class.yith-wcwl-shortcode.php:412
+msgid "Share on:"
+msgstr "シェアする:"
+
+#: plugin-options/add_to_wishlist-options.php:148
+msgid "\"Product already in wishlist\" text"
+msgstr "\"すでにお気に入り一覧に商品があります\"テキスト"
+
+#: plugin-options/add_to_wishlist-options.php:132
+msgid "\"Product added\" text"
+msgstr "\"お気に入り商品に追加しました！\"テキスト"
+
+#: plugin-options/wishlist_page-options.php:199
+msgid "Social text"
+msgstr "ソーシャルテキスト"
+
+#: plugin-options/settings-options.php:53
+msgid "Enable slider in wishlist"
+msgstr "お気に入り一覧にスライダーを利用"
+
+#: plugin-options/add_to_wishlist-options.php:190
+#: plugin-options/wishlist_page-options.php:278
+#: plugin-options/wishlist_page-options.php:367
+#: plugin-options/wishlist_page-options.php:416
+#: plugin-options/wishlist_page-options.php:464
+#: plugin-options/wishlist_page-options.php:551
+#: plugin-options/wishlist_page-options.php:591
+#: plugin-options/wishlist_page-options.php:631
+#: plugin-options/wishlist_page-options.php:671
+#: plugin-options/wishlist_page-options.php:711
+msgid "Background"
+msgstr "背景"
+
+#: templates/share.php:45 templates/share.php:46
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class.yith-wcwl-install.php:348
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr "wishlist"
+
+#: plugin-fw/templates/fields/ajax-terms.php:41
+msgid "Search Categories"
+msgstr "カテゴリーを検索"
+
+#: plugin-options/settings-options.php:46
+msgid "YITH WooCommerce Frequently Bought Together Integration"
+msgstr "YITH WooCommerce よく一緒に買う商品を統合"
+
+#: plugin-options/wishlist_page-options.php:165
+msgid "Share by email"
+msgstr "メールで共有"
+
+#: includes/class.yith-wcwl-shortcode.php:471
+#: plugin-options/wishlist_page-options.php:156
+msgid "Pin on Pinterest"
+msgstr "Pinterest にピン"
+
+#: includes/class.yith-wcwl-shortcode.php:436
+#: plugin-options/wishlist_page-options.php:138
+msgid "Share on Facebook"
+msgstr "Facebook で共有"
+
+#: plugin-options/add_to_wishlist-options.php:104
+msgid "After \"Add to cart\""
+msgstr "\"カートに追加\" の後"
+
+#. Plugin Name of the plugin
+#: includes/class.yith-wcwl-admin.php:237
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: plugin-options/wishlist_page-options.php:208
+msgid "Social image URL"
+msgstr "ソーシャル画像 URL"
+
+#: includes/class.yith-wcwl-shortcode.php:453
+#: plugin-options/wishlist_page-options.php:147
+msgid "Tweet on Twitter"
+msgstr "Twitter にツイート"
+
+#: plugin-options/add_to_wishlist-options.php:294
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: plugin-options/add_to_wishlist-options.php:200
+#: plugin-options/wishlist_page-options.php:288
+#: plugin-options/wishlist_page-options.php:377
+#: plugin-options/wishlist_page-options.php:426
+#: plugin-options/wishlist_page-options.php:474
+msgid "Border"
+msgstr "枠線"
+
+#: includes/class.yith-wcwl-admin.php:238
+#: includes/class.yith-wcwl-install.php:350
+msgid "Wishlist"
+msgstr "ウィッシュリスト"

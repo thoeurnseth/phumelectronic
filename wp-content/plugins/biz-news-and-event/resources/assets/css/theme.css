@@ -1,0 +1,248 @@
+:root {
+    --ne-gray-color:  #8d8d8d;
+    --ne-white-color: #ffffff;
+    --ne-white-gray:  #e9e9e9;
+    --ne-red-color:   #E60E2F;
+    --ne-black-color: #000000;
+}
+
+.news-and-event,
+.news-and-event-detail {
+    background-color: #edebde;
+    padding-top: 100px;
+}
+
+.news-and-event .item-wrapper {
+    /* box-shadow: 0 4px 12px 0 rgb(0 0 0 / 15%);
+    transition: all .25s; */
+    transition: .3s all ease-in-out;
+    box-shadow: 0 0 0 0 rgb(0 0 0 / 0);
+    margin-bottom: 20px;
+}
+
+.news-and-event .item-wrapper:hover {
+    
+    transition: .3s all ease-in-out;
+    box-shadow: 0px 15px 45px -9px rgb(0 0 0 / 20%);
+}
+
+.news-and-event .item-wrapper:hover .item-detail {
+    box-shadow: 0 1px 1px 1px rgb(0 0 0 / 6%);
+}
+
+
+.news-and-event .item-wrapper .item-detail {
+    padding: 20px;
+}
+
+.news-and-event .item-wrapper .item-detail h3,
+.news-and-event-detail .item-wrapper .item-detail h3 {
+    transition: all .25s;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    font-size: 16px;
+}
+
+.news-and-event .item-wrapper .item-detail h3:hover,
+.news-and-event-detail .latest-wrapper .sub-title:hover,
+.news-and-event-detail .item-wrapper .item-detail h3:hover {
+    color: var(--ne-red-color);
+}
+
+.news-and-event .item-wrapper .item-detail p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.news-and-event .item-wrapper span {
+    border-top: 1px solid var(--ne-white-gray);
+    background-image: url(../icons/clock.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    color: var(--ne-gray-color);
+    display: block;
+    font-size: 14px;
+    max-width: 80%;
+    padding-top: 20px;
+    padding-left: 25px;
+    line-height: 1;
+}
+
+/* Detail  */
+
+.news-and-event-detail .detail-wrapper .main-thumbnail {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.news-and-event-detail .detail-wrapper span {
+    background-image: url(../icons/clock.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    color: var(--ne-gray-color);
+    display: block;
+    font-size: 14px;
+    max-width: 80%;
+    margin-bottom: 25px;
+    padding-top: 2px;
+    padding-left: 25px;
+    line-height: 1;
+}
+
+.news-and-event-detail .item-wrapper .related-thumbnail {
+    overflow: hidden;
+}
+
+.news-and-event-detail .item-wrapper .related-thumbnail img {
+    transition: all .25s;
+}
+
+.news-and-event-detail .item-wrapper .related-thumbnail:hover img {
+    -webkit-transform: scale(1.05) rotate(.1deg);
+    transform: scale(1.10) rotate(.1deg);
+    transition: all .25s;
+}
+
+.news-and-event-detail .item-wrapper .item-detail {
+    padding: 20px 0 20px 0;
+}
+
+.news-and-event-detail .detail-wrapper .social-share {
+    display: flex;
+    font-size: 16px;
+}
+
+/* Latest Post */
+
+.news-and-event-detail .latest-wrapper .lastest-content .latest-thumbnail img {
+    width: 100%;
+}
+
+.news-and-event-detail .latest-wrapper .main-title .top-title,
+.news-and-event-detail .latest-wrapper .sub-title,
+.news-and-event-detail .related-wrapper .main-title,
+.news-and-event-detail .related-wrapper .sub-title {
+    text-transform: uppercase;
+    margin: 0;
+    color: var(--ne-black-color);
+    margin-bottom: 0.625rem;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.news-and-event-detail .latest-wrapper .item:not(:last-child) {
+    border-bottom: 1px solid var(--ne-gray-color);
+    margin-bottom: 1.875rem;
+    padding-bottom: 0.625rem;
+}
+
+.news-and-event-detail .latest-wrapper .lastest-content .description,
+.news-and-event-detail .related-wrapper .description {
+    font-size: 0.875rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.news-and-event-detail .detail-wrapper .description {
+    padding: 40px 0;
+    margin-bottom: 25px;
+    border-top: 2px solid var(--ne-gray-color);
+    border-bottom: 2px solid var(--ne-gray-color);
+}
+
+.news-and-event-detail .detail-wrapper .description .socail-share{
+    display: flex;
+    justify-items: center;
+}
+
+/* Responsive */
+
+/* @ipad site */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .news-and-event-detail .latest-wrapper .lastest-content .description {
+        -webkit-line-clamp: 2;
+    }
+    .news-and-event-detail .latest-wrapper .sub-title {
+        margin-bottom: 0;
+    }
+    .news-and-event-detail .related-wrapper .sub-title {
+        font-size: 18px;
+    }
+    .news-and-event-detail .latest-wrapper .lastest-content .latest-thumbnail img {
+        height: 70px;
+    }
+    .news-and-event .item-wrapper .item-detail h3 {
+        height: 48px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .latest-wrapper .col-5, 
+    .latest-wrapper .col-7 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+
+    .related-wrapper .col-8 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+
+    .news-and-event-detail .latest-wrapper .lastest-content .description {
+        -webkit-line-clamp: 2;
+    }
+    .news-and-event-detail .latest-wrapper .sub-title {
+        margin-top: 20px;
+    }
+    .news-and-event-detail .related-wrapper .sub-title {
+        font-size: 16px;
+    }
+    .news-and-event .item-wrapper .item-detail h3 {
+        height: 50px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .news-and-event-detail {
+        padding-top: 15px;
+    }
+    .col-4,
+    .col-5, 
+    .col-7 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+
+    .col-8 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+    .news-and-event-detail .latest-wrapper .sub-title {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    .news-and-event-detail .detail-wrapper .social-share {
+        margin-bottom: 20px;
+    }
+    .news-and-event-detail .detail-wrapper .main-thumbnail {
+        margin-bottom: 25px;
+    }
+    .news-and-event-detail .main-title h2 {
+        font-size: 20px;
+    }
+    .news-and-event-detail .detail-wrapper .description {
+        padding: 20px 0;
+    }
+}
